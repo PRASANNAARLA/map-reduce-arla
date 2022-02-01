@@ -1,5 +1,5 @@
 s = open("s.txt","r")
-r = open("r.txt", "w")
+r = open("Arla_output.txt", "w")
 
 thisKey = ""
 thisValue = 0.0
