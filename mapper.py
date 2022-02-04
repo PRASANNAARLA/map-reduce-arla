@@ -6,8 +6,8 @@ import sys
 # iterate through each line provided via standard input
 for line in sys.stdin:
   datalist = line.strip().split(",")
-  if (len(datalist) == 5) : 
-     = datalist
+  if (len(datalist) == 6) : 
+    index,season_Num,episode,episode_name,name,line = datalist
 
     # print intermediate key-value pairs to standard output
-    print(keyword,"\t",1)
+    print(line,"\t",1)
