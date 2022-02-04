@@ -7,7 +7,7 @@ import sys
 for line in sys.stdin:
   datalist = line.strip().split(",")
   if (len(datalist) == 5) : 
-    deal,description,episode,category,entrepreneurs,location,website,askedFor,exchangeForStake,valuation,season,shark1,shark2,shark3,shark4,shark5,title,episode-season,Multiple Entreprenuers = datalist
+     = datalist
 
     # print intermediate key-value pairs to standard output
     print(keyword,"\t",1)
