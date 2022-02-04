@@ -1,496 +1,201 @@
-deal,description,episode,category,entrepreneurs,location,website,askedFor,exchangeForStake,valuation,season,shark1,shark2,shark3,shark4,shark5,title,episode-season,Multiple Entreprenuers
-FALSE,Bluetooth device implant for your ear.,1,Novelties,Darrin Johnson,"St. Paul, MN",,1000000,15,6666667,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Ionic Ear,1-Jan,FALSE
-TRUE,Retail and wholesale pie factory with two retail locations in New Jersey.,1,Specialty Food,Tod Wilson,"Somerset, NJ",http://whybake.com/,460000,10,4600000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Mr. Tod's Pie Factory,1-Jan,FALSE
-TRUE,Ava the Elephant is a godsend for frazzled parents of young children everywhere. This talking medicine dispenser makes it easy to administer medicine to little ones by turning the experience more playful and by providing positive reinforcement.,1,Baby and Child Care,Tiffany Krumins,"Atlanta, GA",http://www.avatheelephant.com/,50000,15,333333,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Ava the Elephant,1-Jan,FALSE
-FALSE,"Organizing, packing, and moving services delivered by college women.",1,Consumer Services,"Nick Friedman, Omar Soliman","Tampa, FL",http://collegehunkshaulingjunk.com/,250000,25,1000000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,College Foxes Packing Boxes,1-Jan,FALSE
-FALSE,Interactive media centers for healthcare waiting rooms offering patients web access and educational information.,1,Consumer Services,Kevin Flannery,"Cary, NC",http://www.wispots.com/,1200000,10,12000000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Wispots,1-Jan,FALSE
-TRUE,"One of the first entrepreneurs to pitch on Shark Tank, Susan Knapp presented A Perfect Pear, her line of pear-focused gourmet food products. Sold across 650 retail stores, the Perfect Pear product portfolio includes jams, jellies, spreads, tapenades, vinegars, marinades, dressings and many others, all designed to showcase the flavors and health benefits of pears.",2,Specialty Food,Susan Knapp,"Napa Valley, CA",http://www.aperfectpear.com,500000,15,3333333,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,A Perfect Pear,2-Jan,FALSE
-FALSE,A mixed martial arts clothing line looking to become the next big brand of active sports / streetwear apparel.,2,Men and Women's Apparel,Craig French,"Hollywood, CA",http://crookedjawfashions.com/,200000,20,1000000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Crooked Jaw,2-Jan,FALSE
-FALSE,"Attach Noted is a detachable ""arm"" that holds Post-It notes on the side of a laptop screen.",2,Productivity Tools,Mary Ellen Simonson,"Gardena, CA",http://www.attachnoted.com/,100000,20,500000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Attach Noted,2-Jan,FALSE
-FALSE,A safety device for seatbelts. It prevents the driver from starting the vehicle unless the seatbelt is buckled.,2,Automotive,Robert Alison,"Las Vegas, NV",http://www.nobucklenostart.com/,500000,10,5000000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Lifebelt,2-Jan,FALSE
-TRUE,An educational record label and publishing house designed to get students into learning about classic works of literature.,2,Education,Mark Furigay,"Chicago, IL",,250000,10,2500000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Classroom Jams,2-Jan,FALSE
-TRUE,"A battery-operated cooking device that siphons juice, has a silicone basting brush and an injector tip for marinades.",3,Kitchen Tools,Marian Cruz,"San Francisco, CA",,35000,35,100000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Turbobaster,3-Jan,FALSE
-FALSE,Household items with a twist: made from recycled chopsticks.,3,Kitchen Tools,Brian Parks,"Eugene, OR",http://www.chopstickart.com/,100000,10,1000000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Kwytza Chopstick Art,3-Jan,FALSE
-TRUE,A line of books written to help children find inner calm.,3,Baby and Child Care,Lori Lite,"Marietta, GA",http://www.stressfreekids.com,250000,20,1250000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Stress Free Kids,3-Jan,FALSE
-FALSE,"Guitars with a folding neck, designed to fit into a backpack or an overhead compartment on an airplane.",3,Music,Jeff and Josh Cohen,"Livermore, CA",http://www.voyageairguitar.com/,500000,5,10000000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Voyage Air Guitar,3-Jan,TRUE
-FALSE,"50 State Capitals in 50 Fun Minutes is the most efficient and entertaining method to learn about US geography. This set of flash cards combines phonetics, cartoons, and associations to keep kids' interest and drive long-term learning and retention. Author Ken Bradford worked closely with public and private school teachers to develop this fun and satisfying study aide.",3,Education,Ken Bradford,"Dallas, TX",http://www.amazon.com/50-State-Capitals-Fun-Minutes/dp/0967970822,155000,10,1550000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,50 State Capitals in 50 Minutes,3-Jan,FALSE
-FALSE,A franchise-model company offering professional graffiti removal.,4,Professional Services,Paul Watts,"Portland, OR",http://removegraffiti.net/,350000,15,2333333,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Graffiti Removal Services,4-Jan,FALSE
-TRUE,"Coverplay is a slipcover for children's play yards. Much like a mattress, play yards can't be laundered, yet babies and children spend lots of time in them, so you can guess what that leads to. Coverplay to the rescue! Fitting snugly over most standard size play yards, Coverplay offers a quick solution to add another layer of protection between your child and the germ-harboring surface of the play yard. Made of 95% cotton and 5% Lycra, Coverplay is machine-washable and easy to maintain. Indeed, throwing a Coverplay slipcover into the wash is much easier than trying to remove a spill that's gone directly onto the play yard. With their bright and stylish designs, they'll also make any play yard look as good as new.",4,Baby and Child Care,Amy Feldman and Allison Costa,"Los Angeles, CA",http://www.coverplayard.com/,350000,15,2333333,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Coverplay,4-Jan,TRUE
-FALSE,"A company that owns the trademarks for the words ""Coffee,"" ""Cappuccino,"" ""Java"" and other highly-caffeinated words for use on plush toys.",4,Novelties,Dan Claffey,"Dayton, OH",,300000,40,750000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Coffee Brand Gifts,4-Jan,FALSE
-TRUE,A web-based company that buys back and sells some of the 10% of all unused gift cards each year in the U.S.,4,Online Services,Kwami Kuadey,"Columbia, MD",http://www.giftcardrescue.com,150000,30,500000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Gift Card Rescue,4-Jan,FALSE
-FALSE,Inspirational gifts and accessories such as colorful umbrellas and sandals that leave messages in the sand.,4,Women's Accessories,Gina Catroneo,"Dallas, TX",,150000,25,600000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Soul's Calling,4-Jan,FALSE
-TRUE,An online journaling service focused on facilitating users' progress towards achieving and maintaining their emotional well-being.,5,Online Services,Rodolfo and Alexis Saccoman,"Miami, FL",http://www.mytherapyjournal.com,80000,20,400000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,My Therapy Journal,5-Jan,TRUE
-FALSE,"Granola Gourmet offers a line of granola bars that diabetics can safely enjoy. Unlike most granola bars on the market, Granola Gourmet's bars have a low glycemic index. Having a low glycemic index means that they are less prone to causing spikes in blood sugar, which aren't good for anybody and especially damaging for diabetics. Granola Gourmet's bars are made with ingredients that naturally have a low glycemic index, so they release their carbohydrates slowly into the bloodstream. Granola Gourmet products have been tested by GI Labs, which developed the glycemic index concept. They Ultimate Fudge Brownie bar has a glycemic index of just 23, well below the threshold to be considered low glycemic.",5,Specialty Food,Jeff Cohen,"Los Angeles, CA",http://www.granolagourmet.com/,175000,25,700000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Granola Gourmet,5-Jan,FALSE
-TRUE,A fitness machine with a series of bands of varying weights to make pushups easier.,5,Fitness Equipment,Cactus Jack,"Ames, IA",,180000,20,900000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Body Jac,5-Jan,FALSE
-FALSE,"A funeral concierge service that writes the eulogy, officiates the funeral service and handles all the post-funeral family gatherings.",5,Consumer Services,Rikki Farrar,"Philadelphia, PA",,50000,25,200000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Good Grief Celebrations,5-Jan,FALSE
-FALSE,A line of surgical masks designed to be more fashionable and fun.,5,Novelties,Irena Blok,"San Francisco, CA",,50000,30,166667,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Creative Blok,5-Jan,FALSE
-FALSE,Sports bras engineered to work with a woman's body based on the activity she enjoys.,6,Undergarments and Basics,Kimberly Cayce,"Charlotte, NC",http://www.activewearusa.com/store/pc/Kalyx-Sport-Bras-c824.htm,125000,20,625000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Kalyx,6-Jan,FALSE
-TRUE,"Made-to-order energy bars made with whole, natural ingredients. Customers can choose the ingredients that go into their highly personalized bars.",6,Specialty Food,Jonathan Miller,"Chicago, IL",http://www.elementbars.com/,150000,15,1000000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Element Bars,6-Jan,FALSE
-FALSE,"Pitched as a ""root beer float in a bottle"".",6,Non-Alcoholic Beverages,David Chodosh,"Manhattan, CA",http://www.icecreamfizz.com/,150000,25,600000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,The Fizz,6-Jan,FALSE
-TRUE,Sells award-winning barbecue spice and rub products.,6,Specialty Food,Heath Hall and Brett Thompson,"Alexandria, VA",http://porkbarrelbbq.com/,50000,10,500000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Pork Barrel BBQ,6-Jan,TRUE
-FALSE,"Underwear designed to minimize the odor of flatulence, made of airtight material with elastic around the legs and a filter in the back.",6,Undergarments and Basics,Buck and Arlene Weimer,"Pueblo, CO",http://under-tec.com/,55000,25,220000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Charcoal Underwear,6-Jan,TRUE
-FALSE,A fitness program fusing dance routines.,7,Fitness Programs,Dedelle Parra (now Dede Barbanti) and Kathy Lamm,"Ladera Ranch, CA",http://www.bbxinc.com/,700000,70,1000000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Boogie Box Fitness,7-Jan,TRUE
-FALSE,Concept for a live entertainment and amusement attraction in the Times Square area with five venues featuring restaurants and entertainment.,7,Entertainment,Todd Robbins and David Adamovich,"New York, NY",,300000,20,1500000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,The Fun House Project,7-Jan,TRUE
-TRUE,Stainless steel identifying charms that you stick in your food before you grill.,7,Kitchen Tools,Leslie Haywood,"Charleston, SC",http://www.grillcharms.com,50000,25,200000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Grill Charms,7-Jan,FALSE
-TRUE,"A wheat-free soy-based modeling clay, designed for children with wheat allergies.",7,Toys and Games,Sawyer Sparks,"Bloomfield, IN",http://www.soy-yer.com/,125000,25,500000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Soy-Yer Dough,7-Jan,FALSE
-FALSE,"A company selling socks in ""pairs"" of three instead of two, aiming to preempt the problem of the missing sock.",8,Undergarments and Basics,Edwin Heaven,"San Francisco, CA",http://www.throx.com,50000,25,200000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Throx,8-Jan,FALSE
-FALSE,Fashion accessories company focused on its unique hardware buckles and belts.,8,Fashion Accessories,Danon Beres,"Huntington Beach, CA",,500000,25,2000000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Washed Up Hollywood,8-Jan,FALSE
-TRUE,A web site that allows college students to buy and sell class notes and study guides.,8,Online Services,D.J. Stephan and Sean Conway,"San Francisco, CA",http://www.notehall.com,90000,10,900000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Notehall,8-Jan,TRUE
-TRUE,Kids' organizers that look like stuffed animals for children.,8,Toys and Games,Lisa Lloyd,"San Jose, CA",,150000,20,750000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Treasure Chest Pets,8-Jan,FALSE
-TRUE,Women's apparel specially designed for sizes 12 to 18.,9,Women's Apparel,Gayla Bentley,"Houston, TX",http://www.gaylabentley.com/,250000,20,1250000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Gayla Bentley Fashion,9-Jan,FALSE
-FALSE,A virtual reality locomotion simulator.,9,Electronics,Ray Latypov and Jim Dimascio,"Binghampton, NY",http://www.virtusphere.com/,1500000,10,15000000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,VirtuSphere,9-Jan,TRUE
-TRUE,"A healthier line of carbonated beverages featuring organic ingredients, vitamins, antioxidants, and just 85 calories per can.",9,Non-Alcoholic Beverages,Dan Mackey,"Sausalito, CA",http://www.chillsoda.com/,50000,10,500000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Chill Soda,9-Jan,FALSE
-FALSE,Probiotic food for dogs and cats.,9,Pet Products,Dr. Geoffrey Broderick and Kristina Broderick,"Huntington, NY",http://www.cornucopiapetfoods.com/,300000,15,2000000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Cornucopia,9-Jan,TRUE
-FALSE,Custom-made bobblehead dolls.,10,Toys and Games,Jeff Wolsky,"Tampa, FL",http://www.webobble.com/,75000,18,416667,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,The Bobble Place,10-Jan,FALSE
-TRUE,"A faux golf club that looks like a 7 iron but conceals a urine reservoir, for those times golfers need to relieve themselves but there is not a restroom nearby.",10,Golf Products,Dr. Floyd Seskin,"Miami, FL",http://www.uroclub.com/,25000,51,49020,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Uroclub,10-Jan,FALSE
-TRUE,An online service allowing high school athletes and their parents to profile their skills to market themselves to colleges.,10,Online Services,Brian Duggan and Adam McCombs,"Chicago, IL",http://www.jumpforward.com/,150000,10,1500000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Jump Forward,10-Jan,TRUE
-FALSE,A protective covering for MP3 players and similar devices.,10,Electronics,Sandy Hyun and Roman Pietrs,"New York, NY",,50000,25,200000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Mr. Poncho,10-Jan,TRUE
-FALSE,"A printer ink refill service. They send the customer a backup ink cartrige to start with. Any time the customer runs out of ink, they send the dry cartridge back to Ink Flip, while they use the replacement cartridge. Ink Flip replaces the dry cartridge with a full one. The cycle repeats when the next cartridge runs out.",11,Electronics,Andy Sperry,"Franklin, TN",http://www.inkflip.com/,150000,20,750000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Ink Flip,11-Jan,FALSE
-FALSE,A chain of children's play and learning centers.,11,Baby and Children's Entertainment,Michael and Babz Barnett,"Blacksburg, VA",http://www.rompnroll.com/,300000,10,3000000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Romp N' Roll,11-Jan,TRUE
-TRUE,Salad dressings using a tasty blend of all-natural spices and seasonings.,11,Specialty Food,Dorene Humason,"Folsom, CA",http://chefinblack.com/,50000,10,500000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,The Chef in Black,11-Jan,FALSE
-FALSE,A portable golf ball cleaner.,11,Golf Products,"Alfonzo Dowe, Sr.","Lovejoy, GA",http://www.thetwistercleaner.com/,85000,40,212500,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Twister Cleaner,11-Jan,FALSE
-TRUE,Designer helmets. The company owns a utility patent to place 3D designs on motorcycle helmets as well as any other kind of sporting helmet.,11,Outdoor Recreation,Marix Stone and Dr. Nancy Tanchel,"Philadelphia, PA",http://www.hellsbellscustoms.com/,500000,20,2500000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Hells Bells Helmets,11-Jan,TRUE
-FALSE,An ethical and eco-friendly apparel brand.,12,Men and Women's Apparel,Nate Berkopec,"New York, NY",,30000,20,150000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,The Factionist,12-Jan,FALSE
-TRUE,Individually-packaged degreasing cleaning wipes formulated for cyclists to easily remove grease and grime from working on bicycles.,12,Outdoor Recreation,Tim Stansbury and Erin Whalen,"Austin, TX",http://www.greasemonkeywipes.com/,40000,40,100000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Grease Monkey Wipes,12-Jan,TRUE
-FALSE,A face-down tanning and massage pillow with storage pockets.,12,Novelties,Anthony and Tina Calvert,"Santee, CA",http://www.podillow.com/,250000,33,757576,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Podillow,12-Jan,TRUE
-FALSE,A store designed for kids to do the shopping.,12,Baby and Children's Entertainment,Kimberly and Matthew Foley,"Hawthorne, NJ",,200000,30,666667,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Wee Can Shop,12-Jan,TRUE
-TRUE,A way to save the lipstick that gets stuck at the bottom of the tube.,13,Personal Care and Cosmetics,Jill Quilln,"Knoxville, TN",http://www.lipstixremix.com/,105000,30,350000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Lipstix Remix,13-Jan,FALSE
-FALSE,A mobile novelty ice cream vending business.,13,Specialty Food,Tim Gavern,"Monrovia, CA",,48000,25,192000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Captain Ice Cream,13-Jan,FALSE
-FALSE,A coffeehouse that is also a legal resource center.,13,Professional Services,Jeff and Annie Hughes,"Santa Monica, CA",http://www.legalgrind.com/,200000,15,1333333,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Legal Grind,13-Jan,TRUE
-TRUE,"Is that decaf? Are you sure? If you've ever felt paranoid about whether you're really getting decaf, and making sure that you're not unwittingly setting yourself up for a sleepless night, Caffeindicator could be for you. Caffeindicator is a litmus-like indicator to test whether coffee is regular or decaf. But this isn't a stand-alone product, at least not the way it was pitched. The idea is to get these indicators printed on the sugar or artificial sweetener packets that you see at the coffee shop, restaurant, or diner. It would have been a good idea for distribution, since it takes advantage of how these packets are already ubiquitous. Unfortunately for the caffeine-averse though, this product still hasn't hit the market, even years after its Shark Tank debut. What was demonstrated on the show was a mock prototype, and the entrepreneur hadn't even yet begun to approach the sweetener packet manufacturers or estimating the cost of such an add-on feature.",13,Novelties,Michael Schiavone,"Mt. Joy, PA",,200000,25,800000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Caffeindicator,13-Jan,FALSE
-TRUE,"Move over, Legos! Qubits is a new construction toy for kids. Recommended for ages 4 to 16, even adults could have fun with these new shapes. Created by an independent inventor, Qubits encourage exploration in engineering, architecture, geometry and design. Unlike Lincoln Logs or Tinker Toys, or even Legos in recent years, there's no pre-determined plan to follow with Qubits, only your imagination. Parents will also appreciate that Qubits are dishwasher-safe! Qubits are 100% made in the USA.",14,Toys and Games,Mark Burginger,"Orlando, FL",http://www.qubitstoy.com/,90000,51,176471,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Qubits,14-Jan,FALSE
-TRUE,"A reinvented umbrella that is hands-free, impossible to invert, and protects the user from wind chill.",14,Novelties,Alan Kaufman,"Boston, MA",http://nubrella.com/,200000,25,800000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Nubrella,14-Jan,FALSE
-FALSE,"A liquid, organic fertilizer made from ""llama doo"".",14,Gardening,Aida and Phil Lough,"La Habra, CA",http://www.llamabrew.com/,125000,10,1250000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Llama Brew,14-Jan,TRUE
-FALSE,"If you want to shake things up in your greeting card practices, why not deliver those happy sentiments on a bouncy ball instead? The medium is the message, after all. Send-A-Ball will literally send a bouncy ball in the mail on your behalf to any recipient you designate. Your greetings will be all the more happily received this way! Send-A-Ball is run by two sisters who live across the street from each other, and wanted to have a business that would give them the freedom and flexibility to spend time with their families.",14,Novelties,Michele Kapustka and Melisa Moroko,"Chicago, IL",http://www.sendaball.com/,86000,20,430000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Send A Ball,14-Jan,TRUE
-FALSE,A home-based shoe business with a sales model similar to Tupperware parties.,14,Women's Shoes,Nicole Jones,"Chicago, IL",,150000,15,1000000,1,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Pillars of Slippers,14-Jan,FALSE
-TRUE,"Collar stays: can't live with 'em, can't live without 'em. For any man that has struggled to keep their collars pert and upright, and suffered the constant shifting of their plastic collar stays, there's Wurkin Stiffs. This company makes men's accessories for the long haul, offering solutions to common inconveniences in men's apparel. The Wurkin Stiffs signature product is the Power Stays, which are kept securely in place by strong magnets. While Power Stays are made for men's dress shirts, the company also produces Polo Stays that keep your polo shirts looking crisp. Wurkin stiffs has expanded to offer a full suite of men's accessories, including cufflinks, RFID wallets, money clips, tie bars, and travel bags.",1,Men's Accessories,Jonathan Boos,"Sarasota, FL",http://wurkinstiffs.com/,85000,10,850000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Wurkin Stiffs,1-Feb,FALSE
-TRUE,Dance education centers for children.,1,Baby and Children's Entertainment,Megan Reilly and Sarah Nuse,"Corpus Christi, TX",http://www.tippitoesdance.com/,30000,5,600000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Tippi Toes,1-Feb,TRUE
-FALSE,Premium wine sold by the glass in individually-sealed plastic cups.,1,Alcoholic Beverages,James Martin,"The Dalles, OR",http://www.copadivino.com/,300000,5,6000000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Copa di Vino,1-Feb,FALSE
-FALSE,Food products by Chef Big Shake. The flagship product is the Original Shrimp Burger.,1,Specialty Food,Shawn Davis,"Nashville, TN",http://www.bigshakeshotchicken.com/,200000,25,800000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,CBS Foods,1-Feb,FALSE
-TRUE,A subscription toy service.,2,Toys and Games,Nikki Pope,"Los Angeles, CA",,100000,10,1000000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Toygaroo,2-Feb,FALSE
-FALSE,An alarm clock that wakes up the user with freshly cooked bacon.,2,Novelties,Matty Sallin,"San Francisco, CA",http://mattysallin.wordpress.com/,40000,20,200000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Wake n' Bacon,2-Feb,FALSE
-TRUE,Allergy season bringing you down? Maybe it's time to give First Defense Nasal Screens a try. These screens ward off allergies without medication. First Defense Nasal Screens are self-adhesive strips that attach to your nose to cover the nasal passage. They filter the air coming in through your nose and keeps allergens out. This product has been tested to significantly reduce 99% of particles at 10 microns. Even at sub micron levels they have been shown to be effective by 77% or more.,2,Health and Well-Being,Joe Moore,"New Port Richey, FL",http://www.filteryourlife.com/,500000,10,5000000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,First Defense Nasal Screen,2-Feb,FALSE
-FALSE,"Vurtego is a high-tech pogo stick that is super lightweight, ultra durable, and nearly silent. It provides the smoothest and highest performance pogo ride anywhere. Eschewing the traditional pogo stick spring, Vurtego's bounce comes from compressed air instead. Before hopping on, you simply pump it up using any bike pump or air compressor. The cylinder body is made of aircraft aluminum and the footpeg assembly locks the user's feet to the pogo stick securely during the bounce. Made in the USA, Vurtego comes fully assembled and ready to bounce you to new heights!",2,Toys and Games,Brian Spencer,"Mission Viejo, CA",http://www.vurtegopogo.com/,500000,20,2500000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Vurtego,2-Feb,FALSE
-FALSE,Rubber bands that increase the resistance in your exercise activities.,3,Fitness Apparel and Accessories,Stacy Erwin,"Overland Park, KS",http://www.fitnessstride.com,140000,15,933333,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Fitness Stride,3-Feb,FALSE
-TRUE,"Mod Mom Furniture is stylish, high-quality, made-to-order furniture for children's bedrooms and playrooms. These carefully crafted pieces are long-lasting, so they can serve your child over many years. The company was founded by the eponymous mom who was dissatisfied with the current offerings on the market, which were expensive and uninspired. Mod Mom Furniture sources eco-friendly materials, including sustainable and formaldehyde-free wood and varnishing products.",3,Furniture,Kiersten Hathcock,"Flagstaff, AZ",http://www.modmomfurniture.com/,90000,25,360000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Mod Mom Furniture,3-Feb,FALSE
-TRUE,"FlipOutz are flexible silicon bracelets that can hold five coins of your choosing. Kids can personalize their Flip Outz with any five of numerous available choices. You can also swap out coins, trade them with friends, and even set up an online profile which lets you show off the coins you have and see where your traded coins have traveled over time.",3,Toys and Games,Emily Johnson,"Myrtle Beach, NC",http://www.flipoutz.com/,100000,20,500000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Flip Outz,3-Feb,FALSE
-FALSE,"Pure Ayre Odor Eliminator is for anyone who owns pets or has ever faced off against lingering smells. What makes Pure Ayre different than other smell-neutralizing sprays is that it uses natural enzymes to break down the smelly compounds. Pure Ayre banishes bad odors without harsh chemicals, alcohol, bacteria, or citrus. It's effective on even the most offensive smells, for example vomit, skunk spray, and kennel odors. Once you buy your first 14 oz. or 22 oz. spray bottle of Pure Aure Odor Eliminator, you can buy it by the gallon and continue to reuse the bottle.",3,Storage and Cleaning Products,James Mitchell,"Kent, WA",http://www.pureayre.com/,150000,10,1500000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Pure Ayre,3-Feb,FALSE
-TRUE,"A country-style apparel store sold through Sports Authority, truck stops and travel plazas.",4,Men and Women's Apparel,Mike Abbaticchio & Shon Lees,"Parkland, FL",http://www.hillbillybrand.com/,50000,25,200000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Jeff Foxworthy,Daymond John,Hillbilly Brand,4-Feb,FALSE
-TRUE,A children's seat attachable to luggage that instantly converts it into a travel stroller.,4,Baby and Child Care,Darryl and Randy Lenz,"Peachtree City, GA",http://www.rideoncarryon.com/,50000,25,200000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Jeff Foxworthy,Daymond John,Ride-On Carry-On,4-Feb,TRUE
-FALSE,Premium beef jerky made without additives or preservatives.,4,Specialty Food,Ken Howell,"Hope Mills, NC",http://unclezipsjerky.com/,25000,20,125000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Jeff Foxworthy,Daymond John,Uncle Zip's Beef Jerky,4-Feb,FALSE
-TRUE,A rubber band that works as a money clip.,4,Novelties,Johnny Gennaro & Vinny Pastore,"New York, NY",http://amzn.to/1AcWx1t,50000,20,250000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Jeff Foxworthy,Daymond John,Broccoli Wad,4-Feb,FALSE
-FALSE,An aromatic lip gloss designed to help curb appetite.,5,Personal Care and Cosmetics,April Morris,"Indianapolis, IN",,80000,20,400000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,THINgloss,5-Feb,FALSE
-TRUE,Light-up decals for car windows.,5,Automotive,George Podd and Rolf Schwartz,"Chicago, IL",http://powerdecal.com/,100000,5,2000000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Lightfilm,5-Feb,TRUE
-FALSE,"Small cases for mints, gum and contact lenses featuring a clip that allows them to be attached to belts, backpacks, or other travel gear.",5,Novelties,Bob Kroupa,"Chicago, IL",http://clipngo.com/,500000,30,1666667,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Clip'n'Go,5-Feb,FALSE
-TRUE,A magnetic skin with a decorative finish that can be applied to any appliance.,5,Home Improvement,Jan Augenstein,"Dayton, OH",http://www.fridgefronts.com/,100000,30,333333,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Fridge Fronts,5-Feb,FALSE
-TRUE,A new kind of broom with a built-in scraper.,6,Storage and Cleaning Products,Shane Pannell,"Scottsdale, AZ",http://buysweepeasy.com/,40000,25,160000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Sweep Easy,6-Feb,FALSE
-FALSE,"Accessories for casual golfers. The flagship product is the Par 6 cooler, which can keep a six-pack of beer stored in the shoe pocket of any golf bag.",6,Golf Products,Melissa and Ben Fossey,"Minnetonka, MN",,60000,20,300000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Caddy Swag,6-Feb,TRUE
-TRUE,Cakes made from scratch from family recipes. They ship nationwide and orders can be placed online.,6,Specialty Food,Kim Nelson,"Greenville, SC",https://www.ilovedaisycakes.com/,50000,25,200000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Daisy Cakes,6-Feb,FALSE
-FALSE,Designer hospital gowns for expecting moms.,6,Maternity,Deidrea Haysel,"Townsend, MD",http://www.hotmamagowns.com/,30000,20,150000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Hot Mama Gowns,6-Feb,FALSE
-TRUE,"An impact-resistant hydration system that attaches to shoulder pads, aimed at football players in training.",7,Fitness Apparel and Accessories,Chris Spencer,"Houston, TX",http://www.hydromaxsystem.com/,50000,25,200000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Jeff Foxworthy,Daymond John,Hydromax,7-Feb,FALSE
-FALSE,A mobile entertainment company running specialized vehicles with movie theaters and video games.,7,Entertainment,Stuart and David Pikoff,"Austin, TX",http://www.g2u.com/,500000,10,5000000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Jeff Foxworthy,Daymond John,Games2U,7-Feb,TRUE
-FALSE,"A barf bag worn around the neck, for small children who are prone to carsickness.",7,Baby and Child Care,Les Cookson,"Sacramento, CA",http://www.carsikbib.com,30000,15,200000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Jeff Foxworthy,Daymond John,Carsik Bib,7-Feb,FALSE
-FALSE,A push mower marketed as a more eco-friendly alternative than powered mowers.,7,Gardening,Andy Humphrey,"Traverse City, MD",http://www.ecomowers.com/,90000,20,450000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Jeff Foxworthy,Daymond John,Ecomowers,7-Feb,FALSE
-FALSE,"A line of candles that come in ""manly"" scents of pot roast, golf course, football, popcorn and draft beer, among others.",8,Home Accessories,Johnson Bailey,"Broken Arrow, OK",,50000,25,200000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Man Candle,8-Feb,FALSE
-FALSE,Non-stick fabric aisle runners for wedding ceremonies and special events.,8,Weddings,Julie Goldman,"Montclair, NJ",http://www.originalrunners.com/,250000,15,1666667,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Original Runner Company,8-Feb,FALSE
-TRUE,"The Rocket, the company's flagship product, can turn anything into a speaker through its vibrations.",8,Electronics,Jason Lucash and Michael Szymczak,"Costa Mesa, CA",http://www.origaudio.com,150000,15,1000000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Origaudio,8-Feb,TRUE
-TRUE,Hy-Conn is a super-fast connector for fire hydrants and garden hoses. The Pro Edition can be connected to any fire hydrant without the use of adapters or tools. The Home edition is for garden hoses.,8,Productivity Tools,Jeff Stroope,"Ashdown, AR",http://www.hy-conn.com/,500000,40,1250000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Hy-Conn,8-Feb,FALSE
-TRUE,"The patented CitiKitty Cat Toilet Training Kit uses a proven, disappearing litter box technique that has successfully toilet trained cats for decades. CitiKitty's specially-designed training seat fits ALL toilets and transitions cats of all age, size, and breed from litter box to toilet. Any healthy cat, three months of age or older that is successfully using a litter box is a candidate for toilet training.",9,Pet Products,Rebecca Rescate,"Morrisville, PA",http://www.citikitty.com/,100000,15,666667,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,CitiKitty,9-Feb,FALSE
-FALSE,T-shirts for expectant moms that display the due date.,9,Women's Apparel,Kim Preis,"Chicago, IL",,50000,15,333333,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Samson Martin,9-Feb,FALSE
-TRUE,Shoes with interchangeable uppers allowing the user to easily vary their look.,9,Women's Shoes,Dominique McClain Barteet,"Palm Beach, FL",http://www.onesolestore.com/,500000,20,2500000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,One Sole,9-Feb,FALSE
-TRUE,Aldo Orta Jewelry makes fashion jewelry with a royal theme.,9,Women's Accessories,Aldo Orta,"Burbank, IL",http://www.aojewelry.com/,180000,45,400000,2,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Kevin Harrington,Aldo Orta Jewelry,9-Feb,FALSE
-TRUE,A water container that unscrews from the bottom as well as the top for ease of cleaning.,1,Water Bottles,Dave Mayer,"Oakland, CA",http://www.cleanbottle.com/,60000,5,1200000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,The Clean Bottle,1-Mar,FALSE
-TRUE,A website where people can pre-purchase a night out on the town without the fear of getting turned away from a venue.,1,Entertainment,Alashe Nelson,"Miami, FL",https://www.ezvip.com/,150000,15,1000000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,EZ VIP,1-Mar,FALSE
-FALSE,Professional ghost-writing services company.,1,Professional Services,Michael Levin,"Irvine, CA",http://businessghost.com/,200000,10,2000000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Business Ghost,1-Mar,FALSE
-FALSE,Personalized services for planning your own funeral in advance. They have partnered with a large insurance company for a plan that gives people the opportunity to prepay for their funeral.,1,Consumer Services,Nancy Bush and Sue Kruskopf,"Minneapolis, MN",https://www.mywonderfullife.com/,100000,10,1000000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,My Wonderful Life,1-Mar,TRUE
-TRUE,"An online service where people can buy made-to-order cartoon drawings of cats, which are posted to the website.",2,Online Services,Steve Gadlin,"Chicago, IL",http://iwanttodrawacatforyou.com/,10000,25,40000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,I Want to Draw a Cat for You,2-Mar,FALSE
-FALSE,A system to teach how to make successful sales pitches and step-by-step guides on what to say to prospective customers.,2,Professional Services,Dave Greco,"Hamden, CT",http://thesalespreneur.com/,90000,40,225000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Salespreneur,2-Mar,FALSE
-FALSE,A cargo management system that can transform a pickup truck into a bigger cargo-carrying vehicle in about 30 seconds with racks that fold out of the back bed.,2,Automotive,Donny McCall,"Greensboro, NC",http://www.invisarack.com,100000,10,1000000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Invis-A-Rack,2-Mar,FALSE
-FALSE,Concept for a family-friendly magic show in Las Vegas.,2,Entertainment,Rick Smith,"Cleveland, OH",http://ricksmithjr.com/,1500000,20,7500000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Rick Smith Jr. Vegas Magic Show,2-Mar,FALSE
-TRUE,"Chord Buddy is a one-of-a-kind learning system for the guitar that gets you playing from day one. Attach these tabs to your acoustic or electric guitar (right-handed only, sorry!) and you're ready to make music. Chord Buddy basically turns your real-life guitar into one as easy to play as those in your favorite Rock Band or Guitar Hero games. One at a time, you remove hte tabs and learn to play the chords on your own. Using the included instruction book, songbook, and DVD with two-month lesson plan, you can learn over 100 songs on your own!",3,Music,Travis Perry,"Dothan, AL",http://www.chordbuddy.com/,125000,10,1250000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Chord Buddy,3-Mar,FALSE
-FALSE,"Liquid Money answers the question: what if I smelled like a million bucks, instead of just looking like it? Not literally though! That would be unfortunate. Liquid Money for Him is formulated to smell like success. The fragrance opens with a woodsy aroma that gives way to notes of citrus, rosemary, grass, and ocean breeze. The company was founded and is led by Pat McCarthy, a sales executive with experience at top enterprise software companies. Liquid Money's website even asserts the product is used at Microsoft, salesforce, and SAP. Not to forget the ladies, Liquid Money is also available in a women's formulation. All products come in a box packed with real shredded US dollar bills, just to really drive home the point!",3,Novelties,Pat McCarthy,"Miami, FL",http://www.liquidmoney.com/,100000,5,2000000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Liquid Money,3-Mar,FALSE
-FALSE,Attachable lighted patches for jean pockets.,3,Electronics,Kyle Rainey,"Emeryville, CA",http://www.taillightz.com/,50000,50,100000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Tail Lightz,3-Mar,FALSE
-TRUE,"You Smell Soap is luxurious without taking itself too seriously. Made natural ingredients like shea butter and olive oil, You Smell Soap is fragrant yet gentle and soothing on the skin. Made with shea butter and olive oil, these bars create an unmatched soft and creamy lather. You Smell Soap is naturally fragrant yet gentle and soothing on your skin. Each bar comes wrapped in its signature ""You Smell"" packaging that is vintage-inspired and truly conversation-sparking. You Smell Soap is vegan and free of parabens, phthalates, and gluten.",3,Personal Care and Cosmetics,Megan Cummins,"Austin, TX",http://www.yousmellsoap.com/,55000,20,275000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,You Smell Soap,3-Mar,FALSE
-FALSE,A canine-friendly cake mix that is safe for dogs to eat.,4,Pet Products,Kelly Chaney,"Pittsburgh, PA",http://www.puppycake.com/,50000,25,200000,3,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Puppy Cake,4-Mar,FALSE
-FALSE,A comfy outfit that combines a sweatshirt and a blanket.,4,Undergarments and Basics,Ivori Tennelle,"Los Angeles, CA",http://www.theswilt.com/,30000,35,85714,3,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,The Swilt,4-Mar,FALSE
-TRUE,Wine Balloon (now sold under the name Air Cork) A product that preserves wine inside any already-opened bottle. It works by inflating a balloon inside the bottle to crowd out the air and prevent it from being in contact with the wine.,4,Wine Accessories,Eric Corti,"Mason, OH",http://aircork.com/,40000,30,133333,3,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Wine Balloon,4-Mar,FALSE
-TRUE,A towel that is designed like a poncho so that kids can change out of their wet bathing suits without anyone seeing.,4,Baby and Children's Apparel and Accessories,Shelly Ehler,"Orange County, CA",http://showno.com/,50000,25,200000,3,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Show No,4-Mar,FALSE
-TRUE,"A water-resistant and, even better, racoon-resistant fabric cover for garbage bins of all sizes.",5,Storage and Cleaning Products,Kevin and Melissa Kiernan,"West Greenwich, RI",https://www.lastlid.com,40000,20,200000,3,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,The Last Lid,5-Mar,TRUE
-FALSE,A wedge-styled pillow specially designed for women with large breasts so they can lie on their stomachs comfortably,5,Novelties,Amanda Schlechter,"West Palm Beach, FL",,30000,25,120000,3,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Ledge Pillow,5-Mar,FALSE
-TRUE,Designer whole-leaf teas and accessories.,5,Specialty Food,Steve Nakisher and Shane Talbott,"Emeryville, CA",http://talbottteas.com/,250000,20,1250000,3,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Talbott Teas,5-Mar,TRUE
-TRUE,Adjustable necklaces and bracelets with interchangeable accents for kids and adults of all ages.,5,Baby and Children's Apparel and Accessories,"Maddie, Margot and Diane Bradshaw","Dallas, TX",http://www.snapcapsonline.com/,300000,15,2000000,3,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,M3 Girl Designs,5-Mar,TRUE
-FALSE,"Five-Minute Furniture is a system that allows for furniture that's easily assembled without hand tools, screws or bolts. Modular and customizable, the patented Five-Minute Furniture system comes in a variety of sizes, and allows users to built the furniture that best suits their living space. When not in use, it packs flat just as easily as it is assembled. Five-Minute Furniture was created by an architect who was inspired by a prefabricated bookshelf that caught his attention while he worked at a retail store.",6,Furniture,Jared Joyce,"Bozeman, MT",,250000,25,1000000,3,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Five-Minute Furniture,6-Mar,FALSE
-TRUE,"The Painted Pretzel sells creative, gourmet chocolate-covered pretzel confections in brick-and-mortar retail stores and online. The business offers pretzel knots, pretzel rods, pretzel bark and and pretzel turtles in a variety of flavors and sizes, configured into bundles and samplers. The company has also expanded into corporate gifts, and they count numerous Fortune 500 companies among their customers. Since appearing on the show, The Painted Pretzel has also begun to do fundraising business. Organizations seeking to raise money can buy customized pretzels for resale towards their cause.",6,Specialty Food,Raven Thomas,"Scottsdale, AZ",http://www.thepaintedpretzel.com/,100000,25,400000,3,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,The Painted Pretzel,6-Mar,FALSE
-FALSE,"Esso Watches are ionized wristwatches that claim to improve your body's energy field. Now branded TAGI Gear, the company currently sells TAGI watches that are made of silicone and still claim to be equipped with negative ion technology, although such claims appear to have taken a backseat to the aesthetic appeal of the watches. There are two TAGI watch models: a digital version and an analog version. Both are water resistant and available in a number of fun color choices.",6,Homeopathic Remedies,Ryan Naylor,"Phoenix, AZ",,35000,20,175000,3,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Esso Watches,6-Mar,FALSE
-TRUE,"ReadeREST is a magnetized clip that holds your eyewear when it's not in use. It works for reading glasses, sunglasses, and even some non-eyewear items that you might need to keep close at hand, like your work ID or maybe a pen. You can skip the granny chains and the lanyards and simply attach your ReadeREST to any shirt. The strong magnets will keep the clip securely in its place, while the V-shape provides a convenient resting place for those items that are always going astray.",6,Novelties,Rick Hopper,"Flower Mound, TX",http://www.readerest.com,150000,15,1000000,3,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,ReadeREST,6-Mar,FALSE
-FALSE,"Redirects the hot air from any home clothes dryer back into the house, rather than outside, where it helps keep the warmth during cold months.",7,Home Accessories,Lyle Schuette,"Derby, KS",https://www.heat-helper.com/,100000,50,200000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,The Heat Helper,7-Mar,FALSE
-TRUE,"The Smart Baker is known for their insightfully helpful kitchen tools. The company is known for their collapsible cupcake stands, which display up to 100 cupcakes and stores flat when not in use. These cupcake stands are also adjustable, so you can adapt your configuration based on how many treats you plan to serve. The Smart Baker has also brought us pre-cut parchment paper, which you can purchase in round or rectangular shapes according to the molds you'll be using them in. These super helpful pre-cut sheets are outfitted with tabs that poke out the sides, which you can use to lift your cake out of the mold when done. You might also know The Smart Baker for their cheat sheet aprons, which are adorned with useful measuring and conversion tables. These aprons can save you from stains, spills, and measuring mistakes.",7,Kitchen Tools,Stephanie and Daniel Rensing,"Rockledge, FL",http://www.thesmartbaker.com/,75000,25,300000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,The Smart Baker,7-Mar,TRUE
-FALSE,"ScotteVest stands for travel-ready apparel and accessories for men and women. The ScotteVest signature product feature is pockets, lots of pockets for storing and stashing essentials when you're on the go. ScotteVest takes pockets so seriously, in fact, that the number of pockets in each article is listed up front alongside the pricing in their online store. Although the company initially focused on vests, of course, its offerings have gradually expanded to include products such as hoodies, shirts, polos, hats, and even boxers. Overwhelmed by the options? The online store even has a ""Help Me Decide"" feature to make product comparisons easier.",7,Men and Women's Apparel,Scott Jordan,"Ketchum, ID",http://www.scottevest.com/,500000,15,3333333,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,ScotteVest,7-Mar,FALSE
-TRUE,"Kisstixx is a fun lip balm that comes in pairs according to compatible flavors. Each Kisstixx lipstick (try saying that three times fast) packs a punch of flavor, and they're paired to mix well when they come together in a kiss. Best of all, this lip balm keeps your lips protected and moisturized. Wear it every day to stay at your most kissable!",7,Personal Care and Cosmetics,Dallas Robinson and Mike Buonomo,"Orem, UT",http://kisstixx.com/,200000,20,1000000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Kisstixx,7-Mar,TRUE
-TRUE,"Nardo's Natural is a line of premium-quality organic skin care products proudly made in the USA. Their products range from facial care, to body care, to make-up, and even a line just for men. Always made with premium materials, you'll find things like coconut oil, shea butter, bentonite clay, acai berry and pomegranate among the ingredients. Just as important is what you won't find: all Nardo's Natural products are free of parabens, dyes, gluten or harsh chemicals. Nardo's Natural offers facial cleansers, anti-aging creams, make-up, body washes, exfoliants, moisturizers, and even after shave. The company also offers private label and contract manufacturing services for businesses and up-and-coming cosmetics businesses.",8,Personal Care and Cosmetics,"Kyle, KJ, Danny and DJ Nardo","Clearwater, FL",http://www.nardosnatural.com/,75000,12,625000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Nardo's Natural,8-Mar,TRUE
-TRUE,"Fashion-forward and edgy jewelry such as headpieces, body jewelry, and shoe jewelry.",8,Women's Accessories,Rachel Mann and Mackenzie Burdick,"San Francisco, CA",http://littersf.com/,80000,51,156863,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Litter,8-Mar,TRUE
-FALSE,A mobile training device that simulates a basketball defender.,8,Fitness Equipment,Tony Devine,"Bristol, PA",http://www.theoriginalprofender.com/,75000,15,500000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,The Original Profender,8-Mar,FALSE
-FALSE,A way to connect trustworthy senior citizens with customers seeking childcare and other household services.,8,Consumer Services,Todd Colby Pliss,"Los Angeles, CA",http://rentagrandma.com/,150000,20,750000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Rent-A-Grandma,8-Mar,FALSE
-FALSE,"A clear adhesive that lifts and repositions the skin to miminize sagging and cellulite, making thighs look firm and tight.",9,Personal Care and Cosmetics,Nick and Penilopee Larosa,"Tampa, FL",http://www.instantthighlift.com/,100000,25,400000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Instant Thigh Lift,9-Mar,TRUE
-TRUE,"Educational software that teaches people how to play the guitar, ukulele, banjo and other instruments.",9,Music,Aviv Grill,"Santa Monica, CA",,300000,5,6000000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,MisoMedia,9-Mar,FALSE
-TRUE,Stand-up paddle boarding products.,9,Outdoor Recreation,Stephan Aarstol,"San Diego, CA",http://www.towerpaddleboards.com/,150000,10,1500000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Tower Paddle Boards,9-Mar,FALSE
-FALSE,A strainer designed to aerate wine as it is poured into the glass.,9,Wine Accessories,Gary DeJohn,"Greeley, CO",http://www.thevinamor.com/,75000,30,250000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Vinamor,9-Mar,FALSE
-FALSE,A service that creates customized articles of clothing.,10,Men and Women's Shoes,Nick Romero,"Venice Beach, CA",http://www.theavevenice.com/,125000,15,833333,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,The Ave Venice,10-Mar,FALSE
-FALSE,Beer-infused ice cream.,10,Specialty Food,"Steve Albert, Larry Blackwell and Jason Conroy","Manchester, CT",http://www.thebrewerscow.com/,125000,15,833333,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Brewer's Cow Ice Cream,10-Mar,TRUE
-TRUE,A line of fully-protective and fashionable safety gear for people who ride scooters and motorcycles.,10,Men and Women's Apparel,Arlene Battishill and Desiree Estrada,"Los Angeles, CA",http://www.gogogearla.com/,300000,15,2000000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,GoGoGear,10-Mar,TRUE
-FALSE,"Prepackaged meal for pets, featuring separate compartments containing full servings of premium food portioned accordingly for different sizes and species of pets.",10,Pet Products,Blake St. Clair,"Oxnard, CA",http://www.barkems.com/,100000,51,196078,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Barkem's To Go,10-Mar,FALSE
-FALSE,An electric generator that claims to harnesses the spin of the earth and produces gold as a waste product.,11,Novelties,Mark Sullivan,"San Antonio, TX",http://marksullivanresearch.com,1000000,10,10000000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,The Sullivan Generator,11-Mar,FALSE
-FALSE,"Motivating workout apparel, featuring secret logos that are made visible by the wearer's perspiration.",11,Fitness Apparel and Accessories,Ben Wood,"Rochester, NY",http://www.viewsport.us,500000,20,2500000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,ViewSport,11-Mar,FALSE
-FALSE,Premium wine sold by the glass in individually-sealed plastic cups.,11,Alcoholic Beverages,James Martin,"The Dalles, OR",http://www.copadivino.com/,300000,5,6000000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Copa di Vino,11-Mar,FALSE
-FALSE,"A company that handcrafts 25 varieties cookies and brownies, which are sold to corporate customers and in the company's own retail stores.",11,Specialty Food,"Brenda ""Blondie"" Coffman","Greentown, IN",http://www.blondiescookies.com/,200000,3,6666667,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Blondies Cookies,11-Mar,FALSE
-FALSE,"A line of fashionable handbags featuring ""magna-fab"", a removable magnet that attaches to the front of the bag, allowing for the design to be changed up.",12,Women's Accessories,Paul d'Auriac and Debbie Brooks,"New York, NY",http://www.debbiebrooks.com/,540000,20,2700000,3,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Debbie Brooks Handbags,12-Mar,TRUE
-TRUE,"NailPak by Duality Cosmetics is the most portable manicure solution and a touching story. A mother's bonding ritual with her daughters turned commercial success, NailPak came from their evenings together spent doing each others' nails. They came up with NailPak, a self-contained package that combines nail polish and polish remover along with pads and a file.",12,Personal Care and Cosmetics,Barbara Lampugnale,"West Hartford, CT",http://dualitycosmetics.com/,50000,20,250000,3,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Nail Pak,12-Mar,FALSE
-TRUE,"Lollacup is one well-engineered sippy cup. It comes with a valve-free, weighted straw that small children can easily learn to drink from, even when Lollacup is tilted. The cup also has handles for easy gripping, but they are removable in case Lollacup needs to be put into a cupholder. Made in the USA, Lollacup is also dishwasher safe and made with materials that are FDA-approved to be used by young children.",12,Baby and Child Care,Hanna Lim,"Monrovia, CA",http://www.lollaland.com/,100000,15,666667,3,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Lollacup,12-Mar,FALSE
-FALSE,Tank tops with interchangeable straps.,12,Women's Apparel,Nicole Bilsky and Lindsay Johnson,"Pittsburgh, PA",http://www.trimitank.com/,57000,30,190000,3,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Trimi Tanks,12-Mar,TRUE
-TRUE,Boots that transform into a shoe and back again. The removable (and interchangeable) boot uppers are attached to the shoe portion by a zipper.,13,Women's Shoes,Andrew Goodrum and Queenie Davis,"Atlanta, GA",,100000,30,333333,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Boot Illusions,13-Mar,TRUE
-F+151:175ALSE,A roller-coaster ride powered by the people riding it.,13,Outdoor Recreation,Scotty Olson,"New York, NY",http://skyridetechnology.com/,3000000,20,15000000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Skyride,13-Mar,FALSE
-TRUE,An online store for customizable bicycles.,13,Cycling,Fleetwood Hicks,"Dallas, TX",http://www.villycustoms.com/,500000,33,1515152,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Villy Customs,13-Mar,FALSE
-FALSE,"AirBedz are air mattresses purpose-built for use on the beds of pick-up trucks. An AirBedz air mattress will always fit perfectly on a truck bed thanks to specially-designed cutouts on each side, which fit snugly over the wheel wells. Available sizes to fit compact, mid and full-sized trucks, every AirBedz mattress also includes a built-in, battery-powered, rechargeable pump for easy inflation. The unique design of AirBedz maximizes the usable area on the truck bed, while the 12-inch thickness and integrated air coil system assures comfort.",13,Furniture,Jim Pittman,"La Mirada, CA",http://www.truckairbedz.com/,250000,15,1666667,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,AirBedz,13-Mar,FALSE
-TRUE,"A fun, all-inclusive dance workout for people of all ages, shapes and sizes.",14,Fitness Programs,"Billy Blanks, Jr.","Los Angeles, CA",http://www.meettheblanks.com/,100000,20,500000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Billy Blanks Jr.'s Dance With Me,14-Mar,FALSE
-TRUE,Interchangeable swimsuit separates designed to be mixed up.,14,Women's Apparel,Frank Scozzafava and Adam DiSilvestro,"New York, NY",,50000,5,1000000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Mix Bikini,14-Mar,TRUE
-FALSE,A rock band.,14,Entertainment,Tom Callahan,"El Segundo, CA",http://mockrecords.com/cab-20,200000,20,1000000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,CAB-20 Rock Band,14-Mar,FALSE
-TRUE,"Now doing business under the Wild Friends brand, these enterprising college students went into the tank with their wholesome and creatively flavored line of nut butters. Their all-natural nut butters come in delightful flavor combinations such as honey pretzel, cinnamon raisin, sesame cranberry, chocolate coconut, and vanilla espresso. Can't decide on a nut butter? Wild Friends offers variety packs. Want your nut butters on the go? They come in travel-friendly single serve sizes too. These days, Wild Friends sells their peanut butter, almond butter, and sunbutter products online and in major food retailers across the US.",14,Specialty Food,Erika Welsh and Keeley Tillotson,"Portland, OR",https://www.wildfriendsfoods.com/,50000,10,500000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Wild Squirrel Nut Butter,14-Mar,TRUE
-FALSE,An energy drink marketed to women over the age of 35.,15,Non-Alcoholic Beverages,Ryan Custer,"Roanoke, TX",http://drinkcougar.com/,150000,30,500000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Cougar Energy,15-Mar,FALSE
-TRUE,"Socially-conscious, recyclable sneakers.",15,Men and Women's Shoes,Gary Gagnon,"Charlotte, NC",http://www.rekixx.com/,50000,10,500000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Remyxx,15-Mar,FALSE
-FALSE,A home gym for a total body workout.,15,Fitness Equipment,Frank Campitelli and Debrae Barensfeld,"Akron, OH",http://www.thenitroforce.com/,250000,10,2500000,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Nitroforce Industries,15-Mar,TRUE
-TRUE,UniKey provides a smart lock system called Kevo that works with smartphones and the specially-made Kevo fob.,15,Electronics,Phil Dumas,"Orlando, FL",http://www.unikey.com/,500000,33,1515152,3,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,UniKey Technologies,15-Mar,FALSE
-FALSE,A massage therapy system in which the therapist walks on the patient's back.,1,Fitness Programs,Todd Miller,"Phoenix, AZ",http://www.bodywalking.com,100000,10,1000000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Body Walking,1-Apr,FALSE
-FALSE,A ticketless coat checking system for events.,1,Consumer Services,Derek Pacque,"New York, NY",http://www.coatchex.com,200000,10,2000000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,CoatChex,1-Apr,FALSE
-TRUE,Non-toxic bedbug glue traps.,1,Pest Control,Maria Curcio and Veronica Periongo,"Boston, MA",http://www.buggybeds.com,125000,7,1785714,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Buggy Beds,1-Apr,TRUE
-TRUE,A belt featuring a buckle that opens to make a beverage holder.,1,Novelties,Jay Kriner,"Denver, CO",http://www.thebeerbuckle.com,50000,10,500000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Bev Buckle,1-Apr,FALSE
-FALSE,"eCreamery makes small-batch ice cream, gelato, and sorbet in classic and experimental flavors alike. Aside from their brick-and-mortar location in Omaha, they also have a strong online presence, and will ship a pint of any flavor directly to your door. With eCreamery, the customer wields the scoop, so to speak. You can customize any order or even create your own flavor outright. eCreamery will hand-pack your frozen treat in pints or even batches of single-serve cups, with personalized labels of your choosing.",2,Specialty Food,Abby Jordan and Becky App,"Omaha, NE",http://ecreamery.com/,250000,33,757576,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,eCreamery,2-Apr,TRUE
-FALSE,Alpha M is a program consisting of six DVDs that help men analyze and build the perfect basic wardrobe.,2,Consumer Services,Aaron Marino,"Atlanta, GA",http://www.aaronmarino.com/,50000,10,500000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Alpha M,2-Apr,FALSE
-TRUE,Surf-inspired exercise equipment and group fitness classes.,2,Fitness Programs,Mike Hartwick and Sarah Ponn,"Manchester, NH",http://www.surfsetfitness.com/,150000,10,1500000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,SurfSet Fitness,2-Apr,TRUE
-TRUE,"A messaging app that hides a list of contacts that the user wants to keep secret, then intercepts calls and messages to and from those contacts.",2,Mobile Apps,Neal Desai,"San Francisco, CA",,50000,5,1000000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,CateApp,2-Apr,FALSE
-TRUE,A patent-pending strap that keeps the wearer's posture perfect.,3,Health and Well-Being,Mike Lane and Mark Franklin,"Portland, OR",http://www.posturenow.com/,100000,15,666667,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Posture Now,3-Apr,TRUE
-FALSE,"A new kind of reusable diaper, made in a pocket style that holds a microfiber pad inside.",3,Baby and Child Care,Tereson Dupuy,"Lafayette, LA",http://fuzzibunz.com/,500000,15,3333333,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,FuzziBunz,3-Apr,FALSE
-TRUE,A way to wear healing stones around your wrist and make a fashion statement.,3,Men and Women's Accessories,Lee Dahlberg,"Hollywood, FL",http://www.leatherrockbands.com/,100000,20,500000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Rock Bands,3-Apr,FALSE
-FALSE,A brand of cookies that eschews traditional ingredients in favor of making them gluten-free and vegan.,3,Specialty Food,Liz and Dan Holtz,"Waitsfield, VT",http://lizlovely.com/,200000,10,2000000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Liz Lovely Cookies,3-Apr,TRUE
-FALSE,"A hamper with a bungee spring-loaded liner that drops when heavy clothes go in, but then springs back up when you take them out.",4,Productivity Tools,Marvin Philip,"Salt Lake City, UT",http://lifterhamper.com,85000,12,708333,4,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Lift Hamper,4-Apr,FALSE
-TRUE,Back 9 Dips are buffalo chicken dips created with all white meat chicken breasts along with wing and dipping sauces.,4,Specialty Food,David & Nique Mealy,"Tampa, FL",http://www.back9dips.com,150000,15,1000000,4,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Back 9 Dips,4-Apr,FALSE
-TRUE,An exoskeleton device that gives structure to any plastic zipper bag to create a handy and sturdy bowl.,4,Kitchen Tools,Brian and Kevin Fleming,"Kansas City, MO",http://www.buybagbowl.com,40000,33,121212,4,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Bag Bowl,4-Apr,TRUE
-FALSE,A product that attaches to your keychain and warns if you've walked away from your phone.,4,Mobile Apps,Henry Penix,"Tulsa, OK",http://www.zomm.com,2000000,10,20000000,4,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Zomm,4-Apr,FALSE
-TRUE,"Pillowcase dresses that grow alongside kids, as they are tied with ribbons that allow their height to be adjusted.",5,Baby and Children's Apparel and Accessories,Aly Lessor,"Los Angeles, CA",http://www.cozybugusa.com,50000,25,200000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Cozy Bugs,5-Apr,FALSE
-FALSE,"Expensive beauty products get a little more affordable thanks to the Spatty, which helps ordinary people salvage 15% to 25% of their cosmetics. Without these handy little spatulas, you're likely throwing out as much as a quarter of the contents of your expensive makeup, eye cream, face lotion, and other beauty products. The Spatty comes in 6-inch and 12-inch sizes so it can reach into tight containers to rescue the contents that you've been unable to reach in and scoop out. Whether you're pinching pennies or just a conscious consumer, the Spatty quickly pays for itself!",5,Personal Care and Cosmetics,Cheryl Rigdon,"Easley, SC",http://www.thespatty.com,50000,40,125000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,The Spatty,5-Apr,FALSE
-TRUE,"If you don't like to swallow pills, you may feel like there aren't any wellness supplements out there for you. Marz Sprays came up with a solution. Their supplements are designed and packaged as oral sprays. Just a spritz in your mouth and you're good to go. Marz Sprays has five different sprays on offer: ReBoot, Restorative, C-Spray, Slim, and Juicy. C-Spray is their top-seller, a blend of Vitamin C, Vitamin B-12, Vitamin D, Echinacea and other ingredients chosen to boost the immune system. There are Marz Sprays to cover just about anything you might want out of a supplement. Sleep Spray helps you relax and have a restful slumber. ReBoot wakes you up with caffeine. Slim is formulated to help with weight loss. Meanwhile, Juicy is a more general multi-vitamin supplement that's designed to take in small, multiple doses throughout the day.",5,Homeopathic Remedies,Brandon and Keith Marz,"Los Angeles, CA",http://marzsprays.com,200000,10,2000000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Marz Sprays,5-Apr,TRUE
-FALSE,"An energy drink made in the form of a waffle, featuring as much caffeine as a 20-oz cup of coffee.",5,Specialty Food,Roger Sullivan,"Seattle, WA",http://www.wiredwaffles.com,75000,25,300000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Wired Waffles,5-Apr,FALSE
-FALSE,"Mother Nature does it again! Eco Nuts is all-natural laundry detergent that grows on trees. Related to the lychee, soapnuts (also called soapberries) naturally produce a mild surfactant that can be used for laundering clothes. Used for thousands of years by people in Asia, where these shrubs and small trees are common, you can now purchase your own soapnuts for your own laundry! From Eco Nuts, you can purchase these soapberries ready to use, de-seeded and sterilized with no added chemicals. To use them, just toss a few Eco Nuts into the wash with your clothes, and let them do their work. Eco Nuts are certified USDA organic and reusable.",6,Storage and Cleaning Products,Mona Weiss and Scott Shields,"Los Angeles, CA",http://econutssoap.com,175000,15,1166667,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Eco Nuts,6-Apr,TRUE
-TRUE,Protein-infused flavored water.,6,Non-Alcoholic Beverages,Tania Patruno and Brandon Jacobs,"Woodbridge, NJ",http://www.pronrgusa.com,250000,15,1666667,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,PRO-NRG,6-Apr,TRUE
-TRUE,"A lobster roll food truck run by two cousins originally from Maine, operating in Southern California.",6,Specialty Food,Jim Tselikis and Sabin Lomac,"Los Angeles, CA",http://www.cousinsmainelobster.com,55000,5,1100000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Cousins Maine Lobster,6-Apr,TRUE
-FALSE,"Stretchy, creative beverage cozies.",6,Novelties,Zach Crain,"Wilmington, NC",http://www.freakerusa.com,200000,10,2000000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Freaker USA,6-Apr,FALSE
-FALSE,A modern take on the slip.,7,Undergarments and Basics,Shelton Wilder,"Los Angeles, CA",http://www.theshemie.com,60000,20,300000,4,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,The Shemie,7-Apr,FALSE
-TRUE,"Possibly the most successful product in Shark Tank history, Scrub Daddy is a smiley sponge that packs real cleaning power. Dip in warm water to make Scrub Daddy soft and squishy, or run cold water over it to make it firm for those tasks that require a more muscle. Safe on non-stick cookware, china, wood, stainless steel, and counter tops, Scrub Daddy is your go-to sponge for cleaning. Its round shape makes it ergonomically friendly for those times you have to clean the inside of a bottle or container, while the Scrub Daddy smile is also a wonderful tool for easily cleaning spoons and spatulas.",7,Kitchen Tools,,"Folcroft, PA",http://scrubdaddy.com,100000,10,1000000,4,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Scrub Daddy,7-Apr,FALSE
-FALSE,An ice cream treat that is safe for dogs.,7,Pet Products,Matt and Meg Meyer,"Denver, CO",http://cooltreatsfordogs.com,125000,20,625000,4,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,The Bear & The Rat,7-Apr,TRUE
-TRUE,"Focus Designs is the maker of the self-balancing unicycle, or the SBU for short. The SBU is a battery-powered unicycle with built-in sensors that keep the rider balanced and moving forward with no need for pedaling. The rider controls the SBU with just their natural leaning motions, and according to the company, it takes only about 20-30 minutes to learn. The SBU is strong yet lightweight, supporting over 300 lbs. on its mere 27-pound frame and accelerating to 10mph in just 3 seconds. The SBU reaches a max speed of 12.5 mph and can take hills of up to a 30% grade.",7,Cycling,Daniel Wood and David Martschinske,"Camas, WA",http://focusdesigns.com/,300000,10,3000000,4,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,The SBU Unicycle,7-Apr,TRUE
-TRUE,A plastic lid that can turn any plate into an airtight container for food storage.,8,Kitchen Tools,Michael Tseng,"San Francisco, CA",https://www.platetopper.com/,90000,5,1800000,4,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,PlateTopper,8-Apr,FALSE
-FALSE,"The No Fly Cone is designed to be placed over dog, horse and cattle feces to trap flies. It is non-toxic and doesn't require any added attractant.",8,Pest Control,Bruce Gaither,"Los Angeles, CA",http://noflycone.com,25000,15,166667,4,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,No Fly Cone,8-Apr,FALSE
-TRUE,"Cool Wazoo is a cover that redirects heat back to its source while serving five different functions. It can be a swing cover, high chair cover, shopping cart cover, car shade and a changing pad.",8,Baby and Child Care,Ginelle Mills,"Walnut Creek, CA",http://www.thecoolwazoo.com,65000,25,260000,4,Lori Greiner,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Cool Wazoo,8-Apr,FALSE
-FALSE,"General computer proficiency classes taught remotely online, instead of in a classroom or home setting.",9,Online Services,David A. Cox,"Provincetown, MA",http://pcclassesonline.com,150000,15,1000000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,PC Classes Online,9-Apr,FALSE
-FALSE,A search engine for real estate.,9,Online Services,Bill Lyons,"San Francisco, CA",http://www.revestor.com,250000,10,2500000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,ReVestor,9-Apr,FALSE
-TRUE,"Ice Chips are sugar-free hard candy sweetened with Xylitol and smashed to bits into its distinctive ""ice chips"" shape. The business is run by two enterprising friends, Bev Vines-Haines and Charlotte Clary, who over their years of friendship have worked on a tons of ideas and projects until finally coming across Ice Chips. These two grandmothers have 37 grandchildren between them and wanted to make a candy that was healthy yet tasted good enough that their brood would like it too.",9,Specialty Food,Beverly Vines-Haines and Charlotte Clary,"Yelm, WA",https://www.icechipscandy.com,250000,15,1666667,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Ice Chips Candy,9-Apr,TRUE
-TRUE,Costumes that instantaneously transform the wearer from a human into a motorized vehicle.,9,Costumes,Drew Beaumier,"Burbank, CA",http://www.drivesuits.com,150000,20,750000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Drive Suits,9-Apr,FALSE
-FALSE,A subscription service for neckwear.,10,Men's Accessories,David Powers and Scott Tindel,"New York, NY",https://freshneck.com/,100000,25,400000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Tie Try,10-Apr,TRUE
-TRUE,Caffeine-free nutrition shot designed and tested by special ops forces.,10,Specialty Food,Rob Dyer,"San Diego, CA",http://www.ruckpack.com,75000,10,750000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Ruckpack,10-Apr,FALSE
-FALSE,An online boutique where brides can buy and resell used wedding dresses.,10,Weddings,Jackie Courtney,"Brooklyn, NY",http://www.nearlynewlywed.com,35000,10,350000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Nearly Newlywed,10-Apr,FALSE
-FALSE,An atmospheric dinner and drinks cruise.,10,Entertainment,Shane Cianciolo and Nathan Buffett,"Long Beach, CA",,105000,20,525000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Corks Away,10-Apr,TRUE
-FALSE,A nightlife fashion accessory that replaces a handbag by allowing the wearer to carry her essentials around her leg instead.,11,Women's Accessories,Connor Pastoor and Jillian Jaccard,"Los Angeles, CA",,100000,20,500000,4,Barbara Corcoran,Robert Herjavec,Kevin O'Leary,Daymond John,Mark Cuban,Partie Poche,11-Apr,TRUE
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
+deal,description,episode,category,entrepreneurs,location,website,,,,,,,,,,,
+FALSE,Bluetooth device implant for your ear.,1,Novelties,Darrin Johnson,"St. Paul, MN",,,,,,,,,,,,
+TRUE,Retail and wholesale pie factory with two retail locations in New Jersey.,1,Specialty Food,Tod Wilson,"Somerset, NJ",http://whybake.com/,,,,,,,,,,,
+TRUE,Ava the Elephant is a godsend for frazzled parents of young children everywhere. This talking medicine dispenser makes it easy to administer medicine to little ones by turning the experience more playful and by providing positive reinforcement.,1,Baby and Child Care,Tiffany Krumins,"Atlanta, GA",http://www.avatheelephant.com/,,,,,,,,,,,
+FALSE,"Organizing, packing, and moving services delivered by college women.",1,Consumer Services,"Nick Friedman, Omar Soliman","Tampa, FL",http://collegehunkshaulingjunk.com/,,,,,,,,,,,
+FALSE,Interactive media centers for healthcare waiting rooms offering patients web access and educational information.,1,Consumer Services,Kevin Flannery,"Cary, NC",http://www.wispots.com/,,,,,,,,,,,
+TRUE,"One of the first entrepreneurs to pitch on Shark Tank, Susan Knapp presented A Perfect Pear, her line of pear-focused gourmet food products. Sold across 650 retail stores, the Perfect Pear product portfolio includes jams, jellies, spreads, tapenades, vinegars, marinades, dressings and many others, all designed to showcase the flavors and health benefits of pears.",2,Specialty Food,Susan Knapp,"Napa Valley, CA",http://www.aperfectpear.com,,,,,,,,,,,
+FALSE,A mixed martial arts clothing line looking to become the next big brand of active sports / streetwear apparel.,2,Men and Women's Apparel,Craig French,"Hollywood, CA",http://crookedjawfashions.com/,,,,,,,,,,,
+FALSE,"Attach Noted is a detachable ""arm"" that holds Post-It notes on the side of a laptop screen.",2,Productivity Tools,Mary Ellen Simonson,"Gardena, CA",http://www.attachnoted.com/,,,,,,,,,,,
+FALSE,A safety device for seatbelts. It prevents the driver from starting the vehicle unless the seatbelt is buckled.,2,Automotive,Robert Alison,"Las Vegas, NV",http://www.nobucklenostart.com/,,,,,,,,,,,
+TRUE,An educational record label and publishing house designed to get students into learning about classic works of literature.,2,Education,Mark Furigay,"Chicago, IL",,,,,,,,,,,,
+TRUE,"A battery-operated cooking device that siphons juice, has a silicone basting brush and an injector tip for marinades.",3,Kitchen Tools,Marian Cruz,"San Francisco, CA",,,,,,,,,,,,
+FALSE,Household items with a twist: made from recycled chopsticks.,3,Kitchen Tools,Brian Parks,"Eugene, OR",http://www.chopstickart.com/,,,,,,,,,,,
+TRUE,A line of books written to help children find inner calm.,3,Baby and Child Care,Lori Lite,"Marietta, GA",http://www.stressfreekids.com,,,,,,,,,,,
+FALSE,"Guitars with a folding neck, designed to fit into a backpack or an overhead compartment on an airplane.",3,Music,Jeff and Josh Cohen,"Livermore, CA",http://www.voyageairguitar.com/,,,,,,,,,,,
+FALSE,"50 State Capitals in 50 Fun Minutes is the most efficient and entertaining method to learn about US geography. This set of flash cards combines phonetics, cartoons, and associations to keep kids' interest and drive long-term learning and retention. Author Ken Bradford worked closely with public and private school teachers to develop this fun and satisfying study aide.",3,Education,Ken Bradford,"Dallas, TX",http://www.amazon.com/50-State-Capitals-Fun-Minutes/dp/0967970822,,,,,,,,,,,
+FALSE,A franchise-model company offering professional graffiti removal.,4,Professional Services,Paul Watts,"Portland, OR",http://removegraffiti.net/,,,,,,,,,,,
+TRUE,"Coverplay is a slipcover for children's play yards. Much like a mattress, play yards can't be laundered, yet babies and children spend lots of time in them, so you can guess what that leads to. Coverplay to the rescue! Fitting snugly over most standard size play yards, Coverplay offers a quick solution to add another layer of protection between your child and the germ-harboring surface of the play yard. Made of 95% cotton and 5% Lycra, Coverplay is machine-washable and easy to maintain. Indeed, throwing a Coverplay slipcover into the wash is much easier than trying to remove a spill that's gone directly onto the play yard. With their bright and stylish designs, they'll also make any play yard look as good as new.",4,Baby and Child Care,Amy Feldman and Allison Costa,"Los Angeles, CA",http://www.coverplayard.com/,,,,,,,,,,,
+FALSE,"A company that owns the trademarks for the words ""Coffee,"" ""Cappuccino,"" ""Java"" and other highly-caffeinated words for use on plush toys.",4,Novelties,Dan Claffey,"Dayton, OH",,,,,,,,,,,,
+TRUE,A web-based company that buys back and sells some of the 10% of all unused gift cards each year in the U.S.,4,Online Services,Kwami Kuadey,"Columbia, MD",http://www.giftcardrescue.com,,,,,,,,,,,
+FALSE,Inspirational gifts and accessories such as colorful umbrellas and sandals that leave messages in the sand.,4,Women's Accessories,Gina Catroneo,"Dallas, TX",,,,,,,,,,,,
+TRUE,An online journaling service focused on facilitating users' progress towards achieving and maintaining their emotional well-being.,5,Online Services,Rodolfo and Alexis Saccoman,"Miami, FL",http://www.mytherapyjournal.com,,,,,,,,,,,
+FALSE,"Granola Gourmet offers a line of granola bars that diabetics can safely enjoy. Unlike most granola bars on the market, Granola Gourmet's bars have a low glycemic index. Having a low glycemic index means that they are less prone to causing spikes in blood sugar, which aren't good for anybody and especially damaging for diabetics. Granola Gourmet's bars are made with ingredients that naturally have a low glycemic index, so they release their carbohydrates slowly into the bloodstream. Granola Gourmet products have been tested by GI Labs, which developed the glycemic index concept. They Ultimate Fudge Brownie bar has a glycemic index of just 23, well below the threshold to be considered low glycemic.",5,Specialty Food,Jeff Cohen,"Los Angeles, CA",http://www.granolagourmet.com/,,,,,,,,,,,
+TRUE,A fitness machine with a series of bands of varying weights to make pushups easier.,5,Fitness Equipment,Cactus Jack,"Ames, IA",,,,,,,,,,,,
+FALSE,"A funeral concierge service that writes the eulogy, officiates the funeral service and handles all the post-funeral family gatherings.",5,Consumer Services,Rikki Farrar,"Philadelphia, PA",,,,,,,,,,,,
+FALSE,A line of surgical masks designed to be more fashionable and fun.,5,Novelties,Irena Blok,"San Francisco, CA",,,,,,,,,,,,
+FALSE,Sports bras engineered to work with a woman's body based on the activity she enjoys.,6,Undergarments and Basics,Kimberly Cayce,"Charlotte, NC",http://www.activewearusa.com/store/pc/Kalyx-Sport-Bras-c824.htm,,,,,,,,,,,
+TRUE,"Made-to-order energy bars made with whole, natural ingredients. Customers can choose the ingredients that go into their highly personalized bars.",6,Specialty Food,Jonathan Miller,"Chicago, IL",http://www.elementbars.com/,,,,,,,,,,,
+FALSE,"Pitched as a ""root beer float in a bottle"".",6,Non-Alcoholic Beverages,David Chodosh,"Manhattan, CA",http://www.icecreamfizz.com/,,,,,,,,,,,
+TRUE,Sells award-winning barbecue spice and rub products.,6,Specialty Food,Heath Hall and Brett Thompson,"Alexandria, VA",http://porkbarrelbbq.com/,,,,,,,,,,,
+FALSE,"Underwear designed to minimize the odor of flatulence, made of airtight material with elastic around the legs and a filter in the back.",6,Undergarments and Basics,Buck and Arlene Weimer,"Pueblo, CO",http://under-tec.com/,,,,,,,,,,,
+FALSE,A fitness program fusing dance routines.,7,Fitness Programs,Dedelle Parra (now Dede Barbanti) and Kathy Lamm,"Ladera Ranch, CA",http://www.bbxinc.com/,,,,,,,,,,,
+FALSE,Concept for a live entertainment and amusement attraction in the Times Square area with five venues featuring restaurants and entertainment.,7,Entertainment,Todd Robbins and David Adamovich,"New York, NY",,,,,,,,,,,,
+TRUE,Stainless steel identifying charms that you stick in your food before you grill.,7,Kitchen Tools,Leslie Haywood,"Charleston, SC",http://www.grillcharms.com,,,,,,,,,,,
+TRUE,"A wheat-free soy-based modeling clay, designed for children with wheat allergies.",7,Toys and Games,Sawyer Sparks,"Bloomfield, IN",http://www.soy-yer.com/,,,,,,,,,,,
+FALSE,"A company selling socks in ""pairs"" of three instead of two, aiming to preempt the problem of the missing sock.",8,Undergarments and Basics,Edwin Heaven,"San Francisco, CA",http://www.throx.com,,,,,,,,,,,
+FALSE,Fashion accessories company focused on its unique hardware buckles and belts.,8,Fashion Accessories,Danon Beres,"Huntington Beach, CA",,,,,,,,,,,,
+TRUE,A web site that allows college students to buy and sell class notes and study guides.,8,Online Services,D.J. Stephan and Sean Conway,"San Francisco, CA",http://www.notehall.com,,,,,,,,,,,
+TRUE,Kids' organizers that look like stuffed animals for children.,8,Toys and Games,Lisa Lloyd,"San Jose, CA",,,,,,,,,,,,
+TRUE,Women's apparel specially designed for sizes 12 to 18.,9,Women's Apparel,Gayla Bentley,"Houston, TX",http://www.gaylabentley.com/,,,,,,,,,,,
+FALSE,A virtual reality locomotion simulator.,9,Electronics,Ray Latypov and Jim Dimascio,"Binghampton, NY",http://www.virtusphere.com/,,,,,,,,,,,
+TRUE,"A healthier line of carbonated beverages featuring organic ingredients, vitamins, antioxidants, and just 85 calories per can.",9,Non-Alcoholic Beverages,Dan Mackey,"Sausalito, CA",http://www.chillsoda.com/,,,,,,,,,,,
+FALSE,Probiotic food for dogs and cats.,9,Pet Products,Dr. Geoffrey Broderick and Kristina Broderick,"Huntington, NY",http://www.cornucopiapetfoods.com/,,,,,,,,,,,
+FALSE,Custom-made bobblehead dolls.,10,Toys and Games,Jeff Wolsky,"Tampa, FL",http://www.webobble.com/,,,,,,,,,,,
+TRUE,"A faux golf club that looks like a 7 iron but conceals a urine reservoir, for those times golfers need to relieve themselves but there is not a restroom nearby.",10,Golf Products,Dr. Floyd Seskin,"Miami, FL",http://www.uroclub.com/,,,,,,,,,,,
+TRUE,An online service allowing high school athletes and their parents to profile their skills to market themselves to colleges.,10,Online Services,Brian Duggan and Adam McCombs,"Chicago, IL",http://www.jumpforward.com/,,,,,,,,,,,
+FALSE,A protective covering for MP3 players and similar devices.,10,Electronics,Sandy Hyun and Roman Pietrs,"New York, NY",,,,,,,,,,,,
+FALSE,"A printer ink refill service. They send the customer a backup ink cartrige to start with. Any time the customer runs out of ink, they send the dry cartridge back to Ink Flip, while they use the replacement cartridge. Ink Flip replaces the dry cartridge with a full one. The cycle repeats when the next cartridge runs out.",11,Electronics,Andy Sperry,"Franklin, TN",http://www.inkflip.com/,,,,,,,,,,,
+FALSE,A chain of children's play and learning centers.,11,Baby and Children's Entertainment,Michael and Babz Barnett,"Blacksburg, VA",http://www.rompnroll.com/,,,,,,,,,,,
+TRUE,Salad dressings using a tasty blend of all-natural spices and seasonings.,11,Specialty Food,Dorene Humason,"Folsom, CA",http://chefinblack.com/,,,,,,,,,,,
+FALSE,A portable golf ball cleaner.,11,Golf Products,"Alfonzo Dowe, Sr.","Lovejoy, GA",http://www.thetwistercleaner.com/,,,,,,,,,,,
+TRUE,Designer helmets. The company owns a utility patent to place 3D designs on motorcycle helmets as well as any other kind of sporting helmet.,11,Outdoor Recreation,Marix Stone and Dr. Nancy Tanchel,"Philadelphia, PA",http://www.hellsbellscustoms.com/,,,,,,,,,,,
+FALSE,An ethical and eco-friendly apparel brand.,12,Men and Women's Apparel,Nate Berkopec,"New York, NY",,,,,,,,,,,,
+TRUE,Individually-packaged degreasing cleaning wipes formulated for cyclists to easily remove grease and grime from working on bicycles.,12,Outdoor Recreation,Tim Stansbury and Erin Whalen,"Austin, TX",http://www.greasemonkeywipes.com/,,,,,,,,,,,
+FALSE,A face-down tanning and massage pillow with storage pockets.,12,Novelties,Anthony and Tina Calvert,"Santee, CA",http://www.podillow.com/,,,,,,,,,,,
+FALSE,A store designed for kids to do the shopping.,12,Baby and Children's Entertainment,Kimberly and Matthew Foley,"Hawthorne, NJ",,,,,,,,,,,,
+TRUE,A way to save the lipstick that gets stuck at the bottom of the tube.,13,Personal Care and Cosmetics,Jill Quilln,"Knoxville, TN",http://www.lipstixremix.com/,,,,,,,,,,,
+FALSE,A mobile novelty ice cream vending business.,13,Specialty Food,Tim Gavern,"Monrovia, CA",,,,,,,,,,,,
+FALSE,A coffeehouse that is also a legal resource center.,13,Professional Services,Jeff and Annie Hughes,"Santa Monica, CA",http://www.legalgrind.com/,,,,,,,,,,,
+TRUE,"Is that decaf? Are you sure? If you've ever felt paranoid about whether you're really getting decaf, and making sure that you're not unwittingly setting yourself up for a sleepless night, Caffeindicator could be for you. Caffeindicator is a litmus-like indicator to test whether coffee is regular or decaf. But this isn't a stand-alone product, at least not the way it was pitched. The idea is to get these indicators printed on the sugar or artificial sweetener packets that you see at the coffee shop, restaurant, or diner. It would have been a good idea for distribution, since it takes advantage of how these packets are already ubiquitous. Unfortunately for the caffeine-averse though, this product still hasn't hit the market, even years after its Shark Tank debut. What was demonstrated on the show was a mock prototype, and the entrepreneur hadn't even yet begun to approach the sweetener packet manufacturers or estimating the cost of such an add-on feature.",13,Novelties,Michael Schiavone,"Mt. Joy, PA",,,,,,,,,,,,
+TRUE,"Move over, Legos! Qubits is a new construction toy for kids. Recommended for ages 4 to 16, even adults could have fun with these new shapes. Created by an independent inventor, Qubits encourage exploration in engineering, architecture, geometry and design. Unlike Lincoln Logs or Tinker Toys, or even Legos in recent years, there's no pre-determined plan to follow with Qubits, only your imagination. Parents will also appreciate that Qubits are dishwasher-safe! Qubits are 100% made in the USA.",14,Toys and Games,Mark Burginger,"Orlando, FL",http://www.qubitstoy.com/,,,,,,,,,,,
+TRUE,"A reinvented umbrella that is hands-free, impossible to invert, and protects the user from wind chill.",14,Novelties,Alan Kaufman,"Boston, MA",http://nubrella.com/,,,,,,,,,,,
+FALSE,"A liquid, organic fertilizer made from ""llama doo"".",14,Gardening,Aida and Phil Lough,"La Habra, CA",http://www.llamabrew.com/,,,,,,,,,,,
+FALSE,"If you want to shake things up in your greeting card practices, why not deliver those happy sentiments on a bouncy ball instead? The medium is the message, after all. Send-A-Ball will literally send a bouncy ball in the mail on your behalf to any recipient you designate. Your greetings will be all the more happily received this way! Send-A-Ball is run by two sisters who live across the street from each other, and wanted to have a business that would give them the freedom and flexibility to spend time with their families.",14,Novelties,Michele Kapustka and Melisa Moroko,"Chicago, IL",http://www.sendaball.com/,,,,,,,,,,,
+FALSE,A home-based shoe business with a sales model similar to Tupperware parties.,14,Women's Shoes,Nicole Jones,"Chicago, IL",,,,,,,,,,,,
+TRUE,"Collar stays: can't live with 'em, can't live without 'em. For any man that has struggled to keep their collars pert and upright, and suffered the constant shifting of their plastic collar stays, there's Wurkin Stiffs. This company makes men's accessories for the long haul, offering solutions to common inconveniences in men's apparel. The Wurkin Stiffs signature product is the Power Stays, which are kept securely in place by strong magnets. While Power Stays are made for men's dress shirts, the company also produces Polo Stays that keep your polo shirts looking crisp. Wurkin stiffs has expanded to offer a full suite of men's accessories, including cufflinks, RFID wallets, money clips, tie bars, and travel bags.",1,Men's Accessories,Jonathan Boos,"Sarasota, FL",http://wurkinstiffs.com/,,,,,,,,,,,
+TRUE,Dance education centers for children.,1,Baby and Children's Entertainment,Megan Reilly and Sarah Nuse,"Corpus Christi, TX",http://www.tippitoesdance.com/,,,,,,,,,,,
+FALSE,Premium wine sold by the glass in individually-sealed plastic cups.,1,Alcoholic Beverages,James Martin,"The Dalles, OR",http://www.copadivino.com/,,,,,,,,,,,
+FALSE,Food products by Chef Big Shake. The flagship product is the Original Shrimp Burger.,1,Specialty Food,Shawn Davis,"Nashville, TN",http://www.bigshakeshotchicken.com/,,,,,,,,,,,
+TRUE,A subscription toy service.,2,Toys and Games,Nikki Pope,"Los Angeles, CA",,,,,,,,,,,,
+FALSE,An alarm clock that wakes up the user with freshly cooked bacon.,2,Novelties,Matty Sallin,"San Francisco, CA",http://mattysallin.wordpress.com/,,,,,,,,,,,
+TRUE,Allergy season bringing you down? Maybe it's time to give First Defense Nasal Screens a try. These screens ward off allergies without medication. First Defense Nasal Screens are self-adhesive strips that attach to your nose to cover the nasal passage. They filter the air coming in through your nose and keeps allergens out. This product has been tested to significantly reduce 99% of particles at 10 microns. Even at sub micron levels they have been shown to be effective by 77% or more.,2,Health and Well-Being,Joe Moore,"New Port Richey, FL",http://www.filteryourlife.com/,,,,,,,,,,,
+FALSE,"Vurtego is a high-tech pogo stick that is super lightweight, ultra durable, and nearly silent. It provides the smoothest and highest performance pogo ride anywhere. Eschewing the traditional pogo stick spring, Vurtego's bounce comes from compressed air instead. Before hopping on, you simply pump it up using any bike pump or air compressor. The cylinder body is made of aircraft aluminum and the footpeg assembly locks the user's feet to the pogo stick securely during the bounce. Made in the USA, Vurtego comes fully assembled and ready to bounce you to new heights!",2,Toys and Games,Brian Spencer,"Mission Viejo, CA",http://www.vurtegopogo.com/,,,,,,,,,,,
+FALSE,Rubber bands that increase the resistance in your exercise activities.,3,Fitness Apparel and Accessories,Stacy Erwin,"Overland Park, KS",http://www.fitnessstride.com,,,,,,,,,,,
+TRUE,"Mod Mom Furniture is stylish, high-quality, made-to-order furniture for children's bedrooms and playrooms. These carefully crafted pieces are long-lasting, so they can serve your child over many years. The company was founded by the eponymous mom who was dissatisfied with the current offerings on the market, which were expensive and uninspired. Mod Mom Furniture sources eco-friendly materials, including sustainable and formaldehyde-free wood and varnishing products.",3,Furniture,Kiersten Hathcock,"Flagstaff, AZ",http://www.modmomfurniture.com/,,,,,,,,,,,
+TRUE,"FlipOutz are flexible silicon bracelets that can hold five coins of your choosing. Kids can personalize their Flip Outz with any five of numerous available choices. You can also swap out coins, trade them with friends, and even set up an online profile which lets you show off the coins you have and see where your traded coins have traveled over time.",3,Toys and Games,Emily Johnson,"Myrtle Beach, NC",http://www.flipoutz.com/,,,,,,,,,,,
+FALSE,"Pure Ayre Odor Eliminator is for anyone who owns pets or has ever faced off against lingering smells. What makes Pure Ayre different than other smell-neutralizing sprays is that it uses natural enzymes to break down the smelly compounds. Pure Ayre banishes bad odors without harsh chemicals, alcohol, bacteria, or citrus. It's effective on even the most offensive smells, for example vomit, skunk spray, and kennel odors. Once you buy your first 14 oz. or 22 oz. spray bottle of Pure Aure Odor Eliminator, you can buy it by the gallon and continue to reuse the bottle.",3,Storage and Cleaning Products,James Mitchell,"Kent, WA",http://www.pureayre.com/,,,,,,,,,,,
+TRUE,"A country-style apparel store sold through Sports Authority, truck stops and travel plazas.",4,Men and Women's Apparel,Mike Abbaticchio & Shon Lees,"Parkland, FL",http://www.hillbillybrand.com/,,,,,,,,,,,
+TRUE,A children's seat attachable to luggage that instantly converts it into a travel stroller.,4,Baby and Child Care,Darryl and Randy Lenz,"Peachtree City, GA",http://www.rideoncarryon.com/,,,,,,,,,,,
+FALSE,Premium beef jerky made without additives or preservatives.,4,Specialty Food,Ken Howell,"Hope Mills, NC",http://unclezipsjerky.com/,,,,,,,,,,,
+TRUE,A rubber band that works as a money clip.,4,Novelties,Johnny Gennaro & Vinny Pastore,"New York, NY",http://amzn.to/1AcWx1t,,,,,,,,,,,
+FALSE,An aromatic lip gloss designed to help curb appetite.,5,Personal Care and Cosmetics,April Morris,"Indianapolis, IN",,,,,,,,,,,,
+TRUE,Light-up decals for car windows.,5,Automotive,George Podd and Rolf Schwartz,"Chicago, IL",http://powerdecal.com/,,,,,,,,,,,
+FALSE,"Small cases for mints, gum and contact lenses featuring a clip that allows them to be attached to belts, backpacks, or other travel gear.",5,Novelties,Bob Kroupa,"Chicago, IL",http://clipngo.com/,,,,,,,,,,,
+TRUE,A magnetic skin with a decorative finish that can be applied to any appliance.,5,Home Improvement,Jan Augenstein,"Dayton, OH",http://www.fridgefronts.com/,,,,,,,,,,,
+TRUE,A new kind of broom with a built-in scraper.,6,Storage and Cleaning Products,Shane Pannell,"Scottsdale, AZ",http://buysweepeasy.com/,,,,,,,,,,,
+FALSE,"Accessories for casual golfers. The flagship product is the Par 6 cooler, which can keep a six-pack of beer stored in the shoe pocket of any golf bag.",6,Golf Products,Melissa and Ben Fossey,"Minnetonka, MN",,,,,,,,,,,,
+TRUE,Cakes made from scratch from family recipes. They ship nationwide and orders can be placed online.,6,Specialty Food,Kim Nelson,"Greenville, SC",https://www.ilovedaisycakes.com/,,,,,,,,,,,
+FALSE,Designer hospital gowns for expecting moms.,6,Maternity,Deidrea Haysel,"Townsend, MD",http://www.hotmamagowns.com/,,,,,,,,,,,
+TRUE,"An impact-resistant hydration system that attaches to shoulder pads, aimed at football players in training.",7,Fitness Apparel and Accessories,Chris Spencer,"Houston, TX",http://www.hydromaxsystem.com/,,,,,,,,,,,
+FALSE,A mobile entertainment company running specialized vehicles with movie theaters and video games.,7,Entertainment,Stuart and David Pikoff,"Austin, TX",http://www.g2u.com/,,,,,,,,,,,
+FALSE,"A barf bag worn around the neck, for small children who are prone to carsickness.",7,Baby and Child Care,Les Cookson,"Sacramento, CA",http://www.carsikbib.com,,,,,,,,,,,
+FALSE,A push mower marketed as a more eco-friendly alternative than powered mowers.,7,Gardening,Andy Humphrey,"Traverse City, MD",http://www.ecomowers.com/,,,,,,,,,,,
+FALSE,"A line of candles that come in ""manly"" scents of pot roast, golf course, football, popcorn and draft beer, among others.",8,Home Accessories,Johnson Bailey,"Broken Arrow, OK",,,,,,,,,,,,
+FALSE,Non-stick fabric aisle runners for wedding ceremonies and special events.,8,Weddings,Julie Goldman,"Montclair, NJ",http://www.originalrunners.com/,,,,,,,,,,,
+TRUE,"The Rocket, the company's flagship product, can turn anything into a speaker through its vibrations.",8,Electronics,Jason Lucash and Michael Szymczak,"Costa Mesa, CA",http://www.origaudio.com,,,,,,,,,,,
+TRUE,Hy-Conn is a super-fast connector for fire hydrants and garden hoses. The Pro Edition can be connected to any fire hydrant without the use of adapters or tools. The Home edition is for garden hoses.,8,Productivity Tools,Jeff Stroope,"Ashdown, AR",http://www.hy-conn.com/,,,,,,,,,,,
+TRUE,"The patented CitiKitty Cat Toilet Training Kit uses a proven, disappearing litter box technique that has successfully toilet trained cats for decades. CitiKitty's specially-designed training seat fits ALL toilets and transitions cats of all age, size, and breed from litter box to toilet. Any healthy cat, three months of age or older that is successfully using a litter box is a candidate for toilet training.",9,Pet Products,Rebecca Rescate,"Morrisville, PA",http://www.citikitty.com/,,,,,,,,,,,
+FALSE,T-shirts for expectant moms that display the due date.,9,Women's Apparel,Kim Preis,"Chicago, IL",,,,,,,,,,,,
+TRUE,Shoes with interchangeable uppers allowing the user to easily vary their look.,9,Women's Shoes,Dominique McClain Barteet,"Palm Beach, FL",http://www.onesolestore.com/,,,,,,,,,,,
+TRUE,Aldo Orta Jewelry makes fashion jewelry with a royal theme.,9,Women's Accessories,Aldo Orta,"Burbank, IL",http://www.aojewelry.com/,,,,,,,,,,,
+TRUE,A water container that unscrews from the bottom as well as the top for ease of cleaning.,1,Water Bottles,Dave Mayer,"Oakland, CA",http://www.cleanbottle.com/,,,,,,,,,,,
+TRUE,A website where people can pre-purchase a night out on the town without the fear of getting turned away from a venue.,1,Entertainment,Alashe Nelson,"Miami, FL",https://www.ezvip.com/,,,,,,,,,,,
+FALSE,Professional ghost-writing services company.,1,Professional Services,Michael Levin,"Irvine, CA",http://businessghost.com/,,,,,,,,,,,
+FALSE,Personalized services for planning your own funeral in advance. They have partnered with a large insurance company for a plan that gives people the opportunity to prepay for their funeral.,1,Consumer Services,Nancy Bush and Sue Kruskopf,"Minneapolis, MN",https://www.mywonderfullife.com/,,,,,,,,,,,
+TRUE,"An online service where people can buy made-to-order cartoon drawings of cats, which are posted to the website.",2,Online Services,Steve Gadlin,"Chicago, IL",http://iwanttodrawacatforyou.com/,,,,,,,,,,,
+FALSE,A system to teach how to make successful sales pitches and step-by-step guides on what to say to prospective customers.,2,Professional Services,Dave Greco,"Hamden, CT",http://thesalespreneur.com/,,,,,,,,,,,
+FALSE,A cargo management system that can transform a pickup truck into a bigger cargo-carrying vehicle in about 30 seconds with racks that fold out of the back bed.,2,Automotive,Donny McCall,"Greensboro, NC",http://www.invisarack.com,,,,,,,,,,,
+FALSE,Concept for a family-friendly magic show in Las Vegas.,2,Entertainment,Rick Smith,"Cleveland, OH",http://ricksmithjr.com/,,,,,,,,,,,
+TRUE,"Chord Buddy is a one-of-a-kind learning system for the guitar that gets you playing from day one. Attach these tabs to your acoustic or electric guitar (right-handed only, sorry!) and you're ready to make music. Chord Buddy basically turns your real-life guitar into one as easy to play as those in your favorite Rock Band or Guitar Hero games. One at a time, you remove hte tabs and learn to play the chords on your own. Using the included instruction book, songbook, and DVD with two-month lesson plan, you can learn over 100 songs on your own!",3,Music,Travis Perry,"Dothan, AL",http://www.chordbuddy.com/,,,,,,,,,,,
+FALSE,"Liquid Money answers the question: what if I smelled like a million bucks, instead of just looking like it? Not literally though! That would be unfortunate. Liquid Money for Him is formulated to smell like success. The fragrance opens with a woodsy aroma that gives way to notes of citrus, rosemary, grass, and ocean breeze. The company was founded and is led by Pat McCarthy, a sales executive with experience at top enterprise software companies. Liquid Money's website even asserts the product is used at Microsoft, salesforce, and SAP. Not to forget the ladies, Liquid Money is also available in a women's formulation. All products come in a box packed with real shredded US dollar bills, just to really drive home the point!",3,Novelties,Pat McCarthy,"Miami, FL",http://www.liquidmoney.com/,,,,,,,,,,,
+FALSE,Attachable lighted patches for jean pockets.,3,Electronics,Kyle Rainey,"Emeryville, CA",http://www.taillightz.com/,,,,,,,,,,,
+TRUE,"You Smell Soap is luxurious without taking itself too seriously. Made natural ingredients like shea butter and olive oil, You Smell Soap is fragrant yet gentle and soothing on the skin. Made with shea butter and olive oil, these bars create an unmatched soft and creamy lather. You Smell Soap is naturally fragrant yet gentle and soothing on your skin. Each bar comes wrapped in its signature ""You Smell"" packaging that is vintage-inspired and truly conversation-sparking. You Smell Soap is vegan and free of parabens, phthalates, and gluten.",3,Personal Care and Cosmetics,Megan Cummins,"Austin, TX",http://www.yousmellsoap.com/,,,,,,,,,,,
+FALSE,A canine-friendly cake mix that is safe for dogs to eat.,4,Pet Products,Kelly Chaney,"Pittsburgh, PA",http://www.puppycake.com/,,,,,,,,,,,
+FALSE,A comfy outfit that combines a sweatshirt and a blanket.,4,Undergarments and Basics,Ivori Tennelle,"Los Angeles, CA",http://www.theswilt.com/,,,,,,,,,,,
+TRUE,Wine Balloon (now sold under the name Air Cork) A product that preserves wine inside any already-opened bottle. It works by inflating a balloon inside the bottle to crowd out the air and prevent it from being in contact with the wine.,4,Wine Accessories,Eric Corti,"Mason, OH",http://aircork.com/,,,,,,,,,,,
+TRUE,A towel that is designed like a poncho so that kids can change out of their wet bathing suits without anyone seeing.,4,Baby and Children's Apparel and Accessories,Shelly Ehler,"Orange County, CA",http://showno.com/,,,,,,,,,,,
+TRUE,"A water-resistant and, even better, racoon-resistant fabric cover for garbage bins of all sizes.",5,Storage and Cleaning Products,Kevin and Melissa Kiernan,"West Greenwich, RI",https://www.lastlid.com,,,,,,,,,,,
+FALSE,A wedge-styled pillow specially designed for women with large breasts so they can lie on their stomachs comfortably,5,Novelties,Amanda Schlechter,"West Palm Beach, FL",,,,,,,,,,,,
+TRUE,Designer whole-leaf teas and accessories.,5,Specialty Food,Steve Nakisher and Shane Talbott,"Emeryville, CA",http://talbottteas.com/,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
