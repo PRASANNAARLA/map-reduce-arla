@@ -6,8 +6,8 @@ import sys
 # iterate through each line provided via standard input
 for line in sys.stdin:
   datalist = line.strip().split(",")
-  if (len(datalist) == 6) : 
-    index,season_Num,episode,episode_name,name,line = datalist
+  if (len(datalist) == 17) : 
+    InvoiceID,Branch,City,Customertype,Gender,Productline,Unitprice,Quantity,Tax,Total,Date,Time,Payment,cogs,grossmarginpercentage,grossincome,Rating = datalist
 
     # print intermediate key-value pairs to standard output
-    print(line,"\t",1)
+    print(Date,"\t",1)
