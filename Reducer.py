@@ -1,27 +1,27 @@
-s = open("s.txt","r")
-r = open("Arla_output.txt", "w")
+# Case 2 - Reducer using standard input and output
+# Easy to test locally in the terminal
+
+import sys
 
 thisKey = ""
 thisValue = 0.0
 
-for line in s:
-  data = line.strip().split('\t')
-  store, amount = data
-  if store != thisKey:
-    if thisKey:
+for line in sys.stdin:
+  datalist = line.strip().split('\t')
+  if (len(datalist) == 2) : 
+    disasterType, count = datalist
 
-      # output the last key value pair result
-      r.write(thisKey + '\t' + str(thisValue)+'\n')
+    if disasterType != thisKey:   # we've moved to another key
+      if thisKey:
+        # output the previous key-summaryvalue result
+        print(thisKey,'\t',thisValue)
 
-    # start over when changing keys
-    thisKey = store
-    thisValue = 0.0
+      # start over for each new key
+      thisKey = disasterType 
+      thisValue = 0.0
+  
+    # apply the aggregation function
+    thisValue += float(count)
 
-  # apply the aggregation function
-  thisValue += float(amount)
-
-# output the final entry when done
-r.write(thisKey + '\t' + str(thisValue)+'\n')
-
-s.close()
-r.close()
+# output the final key-summaryvalue result outside the loop
+print(thisKey,'\t',thisValue)
