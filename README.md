@@ -20,7 +20,7 @@ cat supermarket_sales.csv | python mapper.py | sort | python reducer.py > prasan
 **I wanted to know on which day of the year 2019 the highest number of super market sales were sold? </br>
 From the graph I got to know that on february 2nd 2019 the highest sales occured.
 
-![super market sales](/image/Newgraph.PNG)
+![super market sales](/images/Newgraph.PNG)
 
 
 
